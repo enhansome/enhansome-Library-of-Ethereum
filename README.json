@@ -1,0 +1,1430 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Smart Contracts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Zeppelin Contracts",
+          "description": "A library for secure smart contract development. Build on a solid foundation of community-vetted code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-08-13T15:24:22Z",
+            "owner": "OpenZeppelin",
+            "repo": "openzeppelin-contracts",
+            "stars": 27214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solidity",
+          "description": "Official solidity repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T14:31:06Z",
+            "owner": "argotorg",
+            "repo": "solidity",
+            "stars": 25705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Solidity",
+          "description": "A curated list of awesome Solidity resources, libraries, tools and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T22:28:57Z",
+            "owner": "bkrem",
+            "repo": "awesome-solidity",
+            "stars": 7039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Not So Smart Contracts",
+          "description": "This repository contains examples of common Ethereum smart contract vulnerabilities, including code from real smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Solidity",
+            "last_commit": "2023-02-24T12:18:59Z",
+            "owner": "crytic",
+            "repo": "not-so-smart-contracts",
+            "stars": 2228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solidity Template",
+          "description": "Solidity templates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-03T17:22:01Z",
+            "owner": "PaulRBerg",
+            "repo": "hardhat-template",
+            "stars": 1972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Contract Sanctuary",
+          "description": "A home for ethereum smart contracts verified on Etherscan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T15:50:33Z",
+            "owner": "tintinweb",
+            "repo": "smart-contract-sanctuary",
+            "stars": 1591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solidity Cheatsheet",
+          "description": "Cheatsheet for solidity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-05T02:30:43Z",
+            "owner": "manojpramesh",
+            "repo": "solidity-cheatsheet",
+            "stars": 1506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solidity Coverage",
+          "description": "Code coverage for solidity testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-11T19:32:00Z",
+            "owner": "sc-forks",
+            "repo": "solidity-coverage",
+            "stars": 1003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boring Solidity",
+          "description": "BoringSolidity is a collection of general purpose Solidity contracts that have been reasonably optimized, reviewed and tested. Still, they come with no guarantees and are provided as-is.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-09T09:22:02Z",
+            "owner": "bartjellema",
+            "repo": "BoringSolidity",
+            "stars": 374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solidity Notes",
+          "description": "Solidity Notes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-02-26T23:06:54Z",
+            "owner": "0xmic",
+            "repo": "solidity",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Contract Security Best Practices",
+          "description": "This document provides a baseline knowledge of security considerations for intermediate Solidity programmers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-03-28T17:57:27Z",
+            "owner": "Consensys",
+            "repo": "smart-contract-best-practices",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Solidity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vyper",
+          "description": "Official Vyper Repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:27:52Z",
+            "owner": "vyperlang",
+            "repo": "vyper",
+            "stars": 5179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snekmate",
+          "description": "State-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-08-13T09:05:03Z",
+            "owner": "pcaversaccio",
+            "repo": "snekmate",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vyper Dev",
+          "description": "Vyper resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-05T11:55:46Z",
+            "owner": "zcor",
+            "repo": "vyper-dev",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Vyper"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cairo",
+          "description": "Officila Cairo Repo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T13:21:55Z",
+            "owner": "starkware-libs",
+            "repo": "cairo-lang",
+            "stars": 1372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cairo Contracts",
+          "description": "A library for secure smart contract development written in Cairo for StarkNet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T12:02:28Z",
+            "owner": "OpenZeppelin",
+            "repo": "cairo-contracts",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cairo Goldmine",
+          "description": "A Comprehensive, Annotated List of Repositories of the Starknet Ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-12T16:36:10Z",
+            "owner": "beautyisourbusiness",
+            "repo": "cairo-goldmine",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cairo 101",
+          "description": "Get started with Cairo with this simple tutorial. Complete the puzzles/exercises, get tokens and learn about StarkNet smart contracts!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cairo",
+            "last_commit": "2022-07-14T20:31:38Z",
+            "owner": "l-henri",
+            "repo": "starknet-cairo-101",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cairo Open",
+          "description": "A set of libraries to help using Cairo on StarkNet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cairo",
+            "last_commit": "2022-09-15T12:16:36Z",
+            "owner": "CairOpen",
+            "repo": "cairopen-contracts",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Cairo"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeFi Developer Road Map",
+          "description": "Curated DeFi Developer Road map",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T03:54:41Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultimate DeFi & Blockchain Research Base",
+          "description": "DeFi Research Tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-14T19:04:35Z",
+            "owner": "OffcierCia",
+            "repo": "ultimate-defi-research-base",
+            "stars": 2208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Decentralized Finance",
+          "description": "A curated list of awesome decentralized finance projects, software, and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-14T20:11:22Z",
+            "owner": "ong",
+            "repo": "awesome-decentralized-finance",
+            "stars": 1658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Money Legos",
+          "description": "One stop shop for Ethereum ABIs, addresses, and Solidity interfaces",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2024-12-09T16:57:10Z",
+            "owner": "studydefi",
+            "repo": "money-legos",
+            "stars": 1025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeFi Open Source Tools",
+          "description": "Tools for use in DeFi. Impermanent Loss calculations, staking and farming strategies, coingecko and pancakeswap API queries, liquidity pools and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-02T14:31:12Z",
+            "owner": "gauss314",
+            "repo": "defi",
+            "stars": 610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeFi Risk Tools & Resources",
+          "description": "It is a list of the available tools, projects, and protocols for analyzing and managing risk within DeFi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-19T01:02:10Z",
+            "owner": "defi-defense-dao",
+            "repo": "defi-risk-tools-list",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Ethereum Finance",
+          "description": "Ethereum Awesome list focused on Finance, Cutting Edge and Novel Works",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-25T18:53:24Z",
+            "owner": "manifoldfinance",
+            "repo": "awesome-ethereum-finance",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeFi Papers",
+          "description": "Collection of papers related to DeFi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T07:32:06Z",
+            "owner": "irnb",
+            "repo": "crypto-papers",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeFi Playground",
+          "description": "DeFi playground to learn about protocols",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2021-06-05T14:50:53Z",
+            "owner": "sudodaksh",
+            "repo": "defi-playground",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "DeFi"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeFi Labs Hacks",
+          "description": "Reproduce DeFi hack incidents using Foundry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-08-11T03:01:13Z",
+            "owner": "SunWeb3Sec",
+            "repo": "DeFiHackLabs",
+            "stars": 6737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome web3 Security",
+          "description": "A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-01T07:09:19Z",
+            "owner": "Anugrahsr",
+            "repo": "Awesome-web3-Security",
+            "stars": 1620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solidity Security Blog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-23T12:06:25Z",
+            "owner": "sigp",
+            "repo": "solidity-security-blog",
+            "stars": 1523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Ethereum Security",
+          "description": "A curated list of awesome Ethereum security references, guidance, tools, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-20T12:39:26Z",
+            "owner": "crytic",
+            "repo": "awesome-ethereum-security",
+            "stars": 1485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Security Toolkit",
+          "description": "This repo is a collection of practical security-focused guides and checklists for smart contract development, assembled by the Nascent team to share with our portfolio companies and others in the ecosystem who might find it useful.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-15T16:33:31Z",
+            "owner": "nascentxyz",
+            "repo": "simple-security-toolkit",
+            "stars": 1233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethereum Security Toolbox",
+          "description": "This repository contains scripts to create a Docker container preinstalled and preconfigured with all of Trail of Bits’ Ethereum security tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-03-10T12:46:36Z",
+            "owner": "trailofbits",
+            "repo": "eth-security-toolbox",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Cryptocurrency Security",
+          "description": "Curated list about cryptocurrency security. (reverse, exploit, fuzz)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-12T02:19:27Z",
+            "owner": "nongiach",
+            "repo": "awesome-cryptocurrency-security",
+            "stars": 198
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rEVM",
+          "description": "Rust Ethereum Virtual Machine with great name that is focused on speed and simplicity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T13:04:20Z",
+            "owner": "bluealloy",
+            "repo": "revm",
+            "stars": 2221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SputnikVM",
+          "description": "Rust Ethereum Virtual Machine Implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T12:10:45Z",
+            "owner": "rust-ethereum",
+            "repo": "evm",
+            "stars": 1323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVMONE",
+          "description": "evmone is a C++ implementation of the Ethereum Virtual Machine (EVM)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T15:20:18Z",
+            "owner": "ipsilon",
+            "repo": "evmone",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVM Puzzles",
+          "description": "A collection of EVM puzzles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-04T22:25:19Z",
+            "owner": "fvictorio",
+            "repo": "evm-puzzles",
+            "stars": 850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVM Codes",
+          "description": "An interactive reference to Ethereum Virtual Machine Opcodes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-13T15:55:28Z",
+            "owner": "duneanalytics",
+            "repo": "evm.codes",
+            "stars": 826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVM Opcodes",
+          "description": "This is intended to be an accessible reference, but it is informal and does not address opcode semantics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-12T11:51:06Z",
+            "owner": "wolflo",
+            "repo": "evm-opcodes",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVM Tools",
+          "description": "A collection of tools for working with the evm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-06-26T14:54:30Z",
+            "owner": "CoinCulture",
+            "repo": "evm-tools",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyevmasm",
+          "description": "pyevmasm is an assembler and disassembler library for the Ethereum Virtual Machine (EVM).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-17T13:27:15Z",
+            "owner": "crytic",
+            "repo": "pyevmasm",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVM Lab",
+          "description": "This package contains various tools to interact with the Ethereum virtual machine",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-05-07T13:04:11Z",
+            "owner": "ethereum",
+            "repo": "evmlab",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enclave EVM",
+          "description": "Enclave EVM (eEVM) is an open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-04-13T17:42:56Z",
+            "owner": "microsoft",
+            "repo": "eEVM",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVM Toolkit",
+          "description": "ETK is a collection of tools for writing, reading, and analyzing EVM bytecode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-21T14:03:45Z",
+            "owner": "quilt",
+            "repo": "etk",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVM Book",
+          "description": "A collection of EVM related information",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-02T15:59:58Z",
+            "owner": "0xKitsune",
+            "repo": "EVM-Book",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go EVMLab",
+          "description": "This project is inspired by EVMlab, which was written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-15T11:26:11Z",
+            "owner": "holiman",
+            "repo": "goevmlab",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SolVM",
+          "description": "A (slightly) stripped down version of the EVM implemented on top of the EVM using yul and solidity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2023-04-19T22:46:30Z",
+            "owner": "brockelmore",
+            "repo": "solvm",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVModin",
+          "description": "Fast EVM implementation with support for resumability. Port of evmone to Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-02-17T15:01:13Z",
+            "owner": "vorot93",
+            "repo": "evmodin",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVM Draw Contract",
+          "description": "This draws each byte of bycode in an EVM contract, allowing you to get a quick overview of the shape of a smart contract",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2022-04-05T18:19:00Z",
+            "owner": "DanielVF",
+            "repo": "evm-contract-draw",
+            "stars": 120
+          }
+        }
+      ],
+      "title": "EVM"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flash Boys 2.0",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-30T18:45:19Z",
+            "owner": "flashbots",
+            "repo": "pm",
+            "stars": 2596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome MEV Resources",
+          "description": "Curated MEV resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-21T20:40:20Z",
+            "owner": "0xalpharush",
+            "repo": "awesome-MEV-resources",
+            "stars": 1156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEV Research",
+          "description": "Flashbots Research",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-31T19:02:00Z",
+            "owner": "flashbots",
+            "repo": "mev-research",
+            "stars": 996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEV Geth",
+          "description": "This is a fork of go-ethereum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-21T07:22:39Z",
+            "owner": "flashbots",
+            "repo": "mev-geth",
+            "stars": 804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome MEV",
+          "description": "A list of MEV resources with a focus on past research papers/talks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-02T07:29:34Z",
+            "owner": "0xemperor",
+            "repo": "Awesome-MEV",
+            "stars": 630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEV Inspect",
+          "description": "Ethereum MEV Inspector in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-11-23T16:14:14Z",
+            "owner": "flashbots",
+            "repo": "mev-inspect-rs",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEV",
+          "description": "MEV resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-12T21:36:26Z",
+            "owner": "Dogetoshi",
+            "repo": "MEV",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEV",
+          "description": "MEV Book",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-07T19:20:40Z",
+            "owner": "0xmebius",
+            "repo": "mev",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEV",
+          "description": "Miner extractable value modeling and tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-02T11:55:51Z",
+            "owner": "pdaian",
+            "repo": "mev",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEV Weekend Reading List",
+          "description": "Reading list for MEV",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-05T04:16:20Z",
+            "owner": "peiyuechen",
+            "repo": "MEV-weekend-reading-list-",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "MEV"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Cryptography",
+          "description": "A curated list of cryptography resources and links",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-15T08:39:47Z",
+            "owner": "sobolevn",
+            "repo": "awesome-cryptography",
+            "stars": 7063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Practical Cryptography for Developers",
+          "description": "Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-06-07T09:01:50Z",
+            "owner": "nakov",
+            "repo": "Practical-Cryptography-for-Developers-Book",
+            "stars": 3825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cryptography",
+          "description": "Guide to cryptography",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-13T17:14:49Z",
+            "owner": "dcbuild3r",
+            "repo": "blockchain-development-guide",
+            "stars": 1345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ETH Crypto",
+          "description": "Cryptographic javascript-functions for ethereum and tutorials on how to use them together with web3js and solidity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T13:44:34Z",
+            "owner": "pubkey",
+            "repo": "eth-crypto",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethereum Cryptography",
+          "description": "Every cryptographic primitive needed to work on Ethereum, for the browser and Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T10:03:08Z",
+            "owner": "ethereum",
+            "repo": "js-ethereum-cryptography",
+            "stars": 754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cryptography",
+          "description": "An intensive introduction to cryptography",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2023-12-11T16:01:58Z",
+            "owner": "boazbk",
+            "repo": "crypto",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intuitive Advanced Cryptography",
+          "description": "Intuitive Advanced Cryptography PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-01T04:16:07Z",
+            "owner": "cryptosubtlety",
+            "repo": "intuitive-advanced-cryptography",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Secure Computation",
+          "description": "This repo is a paper summary for cryptography-based secure computation papers, including topics like Multiparty Computation, Homomorphic Encryption (or Lattice) and Differential Privacy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-24T06:39:52Z",
+            "owner": "Jamie-Cui",
+            "repo": "awesome-secure-computation",
+            "stars": 220
+          }
+        }
+      ],
+      "title": "Cryptography"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome ZKPs",
+          "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-23T15:01:47Z",
+            "owner": "matter-labs",
+            "repo": "awesome-zero-knowledge-proofs",
+            "stars": 5805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome ZK",
+          "description": "A curated list of awesome ZK resources, libraries, tools and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-15T06:58:06Z",
+            "owner": "ventali",
+            "repo": "awesome-zk",
+            "stars": 1583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ingopedia",
+          "description": "A curated list of ZK resources and links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-05T17:01:44Z",
+            "owner": "ingonyama-zk",
+            "repo": "ingopedia",
+            "stars": 740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome zkEVM",
+          "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-24T16:04:37Z",
+            "owner": "LuozhuZhang",
+            "repo": "awesome-zkevm",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZK Knowledge",
+          "description": "Knowledge base of ZKP including applications, hardware, technical discussions and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-01-04T22:44:23Z",
+            "owner": "delendum-xyz",
+            "repo": "zk-knowledge",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZK Rollups",
+          "description": "zkRollup resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-13T17:55:15Z",
+            "owner": "john-light",
+            "repo": "validity-rollups",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZKP Learning in Public",
+          "description": "ZKP resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2021-11-13T11:43:46Z",
+            "owner": "JofArnold",
+            "repo": "zkp-learning-in-public",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning ZKP",
+          "description": "Articles, codes and tools all about zero-knowledge proofs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2021-11-13T11:43:46Z",
+            "owner": "JofArnold",
+            "repo": "zkp-learning-in-public",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "ZKPs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Misc"
+    },
+    {
+      "description": "Execution Clients",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Geth",
+          "description": "Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T11:26:12Z",
+            "owner": "ethereum",
+            "repo": "go-ethereum",
+            "stars": 51284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Erigon",
+          "description": "Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T15:10:22Z",
+            "owner": "erigontech",
+            "repo": "erigon",
+            "stars": 3580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Besu",
+          "description": "Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T11:44:47Z",
+            "owner": "besu-eth",
+            "repo": "besu",
+            "stars": 1826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Akula",
+          "description": "Rust",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-05-23T19:01:30Z",
+            "owner": "openethereum",
+            "repo": "openethereum",
+            "stars": 1627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nethermind",
+          "description": "C# , .NET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T15:30:20Z",
+            "owner": "NethermindEth",
+            "repo": "nethermind",
+            "stars": 1586
+          }
+        }
+      ],
+      "title": "Validator Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Audit Readiness Checklist",
+          "description": "Bare minimum quality checklist",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-15T16:33:31Z",
+            "owner": "nascentxyz",
+            "repo": "simple-security-toolkit",
+            "stars": 1233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Contracts Audit Checklist",
+          "description": "A checklist of things to look for when auditing Solidity smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-02T03:01:08Z",
+            "owner": "tamjid0x01",
+            "repo": "SmartContracts-audit-checklist",
+            "stars": 798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audit Checklist",
+          "description": "A Solidity smart contract auditing checklist",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-06T15:58:19Z",
+            "owner": "cryptofinlabs",
+            "repo": "audit-checklist",
+            "stars": 368
+          }
+        }
+      ],
+      "title": "Audit Checklists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EVM Illustrated",
+          "description": "EVM Illustrations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-21T18:53:47Z",
+            "owner": "takenobu-hs",
+            "repo": "ethereum-evm-illustrated",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Ethereum Diagrams",
+          "description": "A curated list of useful diagrams with links to original sources to grasp complex ethereum concepts related to L1, L2, and Defi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-17T12:48:15Z",
+            "owner": "dgeorgiev06",
+            "repo": "awesome-ethereum-diagrams",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethereum Diagrams",
+          "description": "Ethereum Diagrams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-06-09T10:16:38Z",
+            "owner": "4c656554",
+            "repo": "BlockchainIllustrations",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Diagrams"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ethereum Developer Tool List",
+          "description": "A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-03-09T17:40:55Z",
+            "owner": "Consensys",
+            "repo": "ethereum-developer-tools-list",
+            "stars": 5408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devpill.me",
+          "description": "A Public Good Blockchain Development Guide",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-13T17:14:49Z",
+            "owner": "dcbuild3r",
+            "repo": "blockchain-development-guide",
+            "stars": 1345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome web3",
+          "description": "A curated list of awesome Web3 resources, libraries, tools and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T13:11:25Z",
+            "owner": "ahmet",
+            "repo": "awesome-web3",
+            "stars": 886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Crypto Trackers",
+          "description": "A curated list of crypto project trackers and analytics dashboards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-25T21:16:57Z",
+            "owner": "denisnazarov",
+            "repo": "awesome-crypto-trackers",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protocol Reading List",
+          "description": "This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-23T14:01:06Z",
+            "owner": "b-chiang",
+            "repo": "protocol-reading-list",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AMMs",
+          "description": "Collection of AMMs, Orderbooks, and everything in between.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-06T18:48:04Z",
+            "owner": "0xperp",
+            "repo": "awesome-amm",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web3 Resources",
+          "description": "Selection of Web3 tools & resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-28T22:00:18Z",
+            "owner": "vikvikvikkk",
+            "repo": "Web3",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "Special Mentions"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:30:49.518Z",
+    "original_repository": "arpitingle/Library-of-Ethereum",
+    "original_repository_sha": "fe29a93e0ae0316a22c36e596fd38eb4eb98b9d6",
+    "enhanced_repository": "enhansome/enhansome-Library-of-Ethereum",
+    "enhanced_repository_description": null,
+    "title": "Awesome Library of Ethereum with stars"
+  }
+}
