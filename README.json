@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-14T10:13:02Z",
+            "last_commit": "2026-08-15T08:46:07Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
-            "stars": 27215
+            "stars": 27216
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T13:18:14Z",
+            "last_commit": "2026-08-15T11:42:57Z",
             "owner": "argotorg",
             "repo": "solidity",
-            "stars": 25704
+            "stars": 25707
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-07-26T03:54:41Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10804
+            "stars": 10806
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-08-11T03:01:13Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6740
+            "stars": 6742
           }
         },
         {
@@ -536,7 +536,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T14:41:36Z",
+            "last_commit": "2026-08-14T19:15:29Z",
             "owner": "bluealloy",
             "repo": "revm",
             "stars": 2221
@@ -564,7 +564,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T15:06:26Z",
+            "last_commit": "2026-08-15T13:53:31Z",
             "owner": "ipsilon",
             "repo": "evmone",
             "stars": 974
@@ -915,7 +915,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7066
+            "stars": 7067
           }
         },
         {
@@ -954,7 +954,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T19:58:56Z",
+            "last_commit": "2026-08-15T10:09:13Z",
             "owner": "pubkey",
             "repo": "eth-crypto",
             "stars": 920
@@ -1033,7 +1033,7 @@
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5804
+            "stars": 5803
           }
         },
         {
@@ -1047,7 +1047,7 @@
             "last_commit": "2024-10-15T06:58:06Z",
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1583
+            "stars": 1584
           }
         },
         {
@@ -1156,7 +1156,7 @@
             "last_commit": "2026-08-13T23:17:01Z",
             "owner": "ethereum",
             "repo": "go-ethereum",
-            "stars": 51288
+            "stars": 51284
           }
         },
         {
@@ -1167,10 +1167,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T15:17:35Z",
+            "last_commit": "2026-08-15T14:02:21Z",
             "owner": "erigontech",
             "repo": "erigon",
-            "stars": 3581
+            "stars": 3579
           }
         },
         {
@@ -1181,7 +1181,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T14:41:51Z",
+            "last_commit": "2026-08-14T16:48:07Z",
             "owner": "besu-eth",
             "repo": "besu",
             "stars": 1828
@@ -1209,7 +1209,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T15:12:10Z",
+            "last_commit": "2026-08-15T14:44:23Z",
             "owner": "NethermindEth",
             "repo": "nethermind",
             "stars": 1586
@@ -1328,7 +1328,7 @@
             "last_commit": "2025-03-09T17:40:55Z",
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5408
+            "stars": 5407
           }
         },
         {
@@ -1420,7 +1420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:21:08.928Z",
+    "last_updated": "2026-08-15T14:47:36.991Z",
     "original_repository": "arpitingle/Library-of-Ethereum",
     "original_repository_sha": "fe29a93e0ae0316a22c36e596fd38eb4eb98b9d6",
     "enhanced_repository": "enhansome/enhansome-Library-of-Ethereum",
