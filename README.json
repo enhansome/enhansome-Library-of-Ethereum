@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-17T14:04:12Z",
+            "last_commit": "2026-08-18T14:18:10Z",
             "owner": "OpenZeppelin",
             "repo": "openzeppelin-contracts",
             "stars": 27218
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T12:05:02Z",
+            "last_commit": "2026-08-18T09:26:15Z",
             "owner": "argotorg",
             "repo": "solidity",
-            "stars": 25705
+            "stars": 25704
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-11T22:28:57Z",
+            "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7042
+            "stars": 7043
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-02-03T17:22:01Z",
             "owner": "PaulRBerg",
             "repo": "hardhat-template",
-            "stars": 1972
+            "stars": 1971
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-08-12T18:27:52Z",
             "owner": "vyperlang",
             "repo": "vyper",
-            "stars": 5180
+            "stars": 5179
           }
         },
         {
@@ -190,7 +190,7 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-17T09:08:06Z",
+            "last_commit": "2026-08-18T10:05:23Z",
             "owner": "pcaversaccio",
             "repo": "snekmate",
             "stars": 602
@@ -238,7 +238,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T12:02:28Z",
+            "last_commit": "2026-08-18T14:23:14Z",
             "owner": "OpenZeppelin",
             "repo": "cairo-contracts",
             "stars": 911
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10805
+            "stars": 10806
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-01-14T20:11:22Z",
             "owner": "ong",
             "repo": "awesome-decentralized-finance",
-            "stars": 1659
+            "stars": 1658
           }
         },
         {
@@ -432,10 +432,10 @@
           "repo_info": {
             "archived": false,
             "language": "Solidity",
-            "last_commit": "2026-08-11T03:01:13Z",
+            "last_commit": "2026-08-18T05:31:42Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6745
+            "stars": 6749
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2023-11-15T16:33:31Z",
             "owner": "nascentxyz",
             "repo": "simple-security-toolkit",
-            "stars": 1232
+            "stars": 1233
           }
         },
         {
@@ -505,7 +505,7 @@
             "last_commit": "2026-03-10T12:46:36Z",
             "owner": "trailofbits",
             "repo": "eth-security-toolbox",
-            "stars": 735
+            "stars": 736
           }
         },
         {
@@ -536,7 +536,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T11:44:20Z",
+            "last_commit": "2026-08-18T13:57:49Z",
             "owner": "bluealloy",
             "repo": "revm",
             "stars": 2221
@@ -564,7 +564,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T10:55:48Z",
+            "last_commit": "2026-08-18T06:00:26Z",
             "owner": "ipsilon",
             "repo": "evmone",
             "stars": 974
@@ -783,7 +783,7 @@
             "last_commit": "2023-12-21T20:40:20Z",
             "owner": "0xalpharush",
             "repo": "awesome-MEV-resources",
-            "stars": 1156
+            "stars": 1157
           }
         },
         {
@@ -797,7 +797,7 @@
             "last_commit": "2026-03-31T19:02:00Z",
             "owner": "flashbots",
             "repo": "mev-research",
-            "stars": 996
+            "stars": 997
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2023-09-02T07:29:34Z",
             "owner": "0xemperor",
             "repo": "Awesome-MEV",
-            "stars": 629
+            "stars": 630
           }
         },
         {
@@ -839,7 +839,7 @@
             "last_commit": "2022-11-23T16:14:14Z",
             "owner": "flashbots",
             "repo": "mev-inspect-rs",
-            "stars": 562
+            "stars": 563
           }
         },
         {
@@ -915,7 +915,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7071
+            "stars": 7074
           }
         },
         {
@@ -929,7 +929,7 @@
             "last_commit": "2024-06-07T09:01:50Z",
             "owner": "nakov",
             "repo": "Practical-Cryptography-for-Developers-Book",
-            "stars": 3825
+            "stars": 3824
           }
         },
         {
@@ -943,7 +943,7 @@
             "last_commit": "2023-08-13T17:14:49Z",
             "owner": "dcbuild3r",
             "repo": "blockchain-development-guide",
-            "stars": 1345
+            "stars": 1346
           }
         },
         {
@@ -1033,7 +1033,7 @@
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5804
+            "stars": 5802
           }
         },
         {
@@ -1047,7 +1047,7 @@
             "last_commit": "2024-10-15T06:58:06Z",
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1585
+            "stars": 1584
           }
         },
         {
@@ -1153,10 +1153,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:08:13Z",
+            "last_commit": "2026-08-18T01:40:11Z",
             "owner": "ethereum",
             "repo": "go-ethereum",
-            "stars": 51286
+            "stars": 51293
           }
         },
         {
@@ -1167,7 +1167,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T14:55:23Z",
+            "last_commit": "2026-08-18T14:58:52Z",
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3580
@@ -1181,10 +1181,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T12:27:26Z",
+            "last_commit": "2026-08-18T14:12:35Z",
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1828
+            "stars": 1827
           }
         },
         {
@@ -1198,7 +1198,7 @@
             "last_commit": "2022-05-23T19:01:30Z",
             "owner": "openethereum",
             "repo": "openethereum",
-            "stars": 1627
+            "stars": 1626
           }
         },
         {
@@ -1209,10 +1209,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T14:52:30Z",
+            "last_commit": "2026-08-18T14:45:13Z",
             "owner": "NethermindEth",
             "repo": "nethermind",
-            "stars": 1586
+            "stars": 1584
           }
         }
       ],
@@ -1232,7 +1232,7 @@
             "last_commit": "2023-11-15T16:33:31Z",
             "owner": "nascentxyz",
             "repo": "simple-security-toolkit",
-            "stars": 1232
+            "stars": 1233
           }
         },
         {
@@ -1328,7 +1328,7 @@
             "last_commit": "2025-03-09T17:40:55Z",
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5406
+            "stars": 5405
           }
         },
         {
@@ -1342,7 +1342,7 @@
             "last_commit": "2023-08-13T17:14:49Z",
             "owner": "dcbuild3r",
             "repo": "blockchain-development-guide",
-            "stars": 1345
+            "stars": 1346
           }
         },
         {
@@ -1420,7 +1420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:54:01.390Z",
+    "last_updated": "2026-08-18T15:01:30.247Z",
     "original_repository": "arpitingle/Library-of-Ethereum",
     "original_repository_sha": "fe29a93e0ae0316a22c36e596fd38eb4eb98b9d6",
     "enhanced_repository": "enhansome/enhansome-Library-of-Ethereum",
