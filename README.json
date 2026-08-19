@@ -1,296 +1,319 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open Zeppelin Contracts",
+              "description": "A library for secure smart contract development. Build on a solid foundation of community-vetted code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64700934,
+                "language": "Solidity",
+                "last_commit": "2026-08-19T10:36:28Z",
+                "owner": "OpenZeppelin",
+                "repo": "openzeppelin-contracts",
+                "stars": 27219
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solidity",
+              "description": "Official solidity repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40892817,
+                "language": "C++",
+                "last_commit": "2026-08-18T22:40:21Z",
+                "owner": "argotorg",
+                "repo": "solidity",
+                "stars": 25702
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Solidity",
+              "description": "A curated list of awesome Solidity resources, libraries, tools and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62893187,
+                "language": null,
+                "last_commit": "2026-08-18T07:55:17Z",
+                "owner": "bkrem",
+                "repo": "awesome-solidity",
+                "stars": 7043
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Not So Smart Contracts",
+              "description": "This repository contains examples of common Ethereum smart contract vulnerabilities, including code from real smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101668791,
+                "language": "Solidity",
+                "last_commit": "2023-02-24T12:18:59Z",
+                "owner": "crytic",
+                "repo": "not-so-smart-contracts",
+                "stars": 2228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solidity Template",
+              "description": "Solidity templates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277660991,
+                "language": "TypeScript",
+                "last_commit": "2026-02-03T17:22:01Z",
+                "owner": "PaulRBerg",
+                "repo": "hardhat-template",
+                "stars": 1971
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smart Contract Sanctuary",
+              "description": "A home for ethereum smart contracts verified on Etherscan",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137944558,
+                "language": "Python",
+                "last_commit": "2026-07-29T15:50:33Z",
+                "owner": "tintinweb",
+                "repo": "smart-contract-sanctuary",
+                "stars": 1593
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solidity Cheatsheet",
+              "description": "Cheatsheet for solidity",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111513785,
+                "language": null,
+                "last_commit": "2026-04-05T02:30:43Z",
+                "owner": "manojpramesh",
+                "repo": "solidity-cheatsheet",
+                "stars": 1506
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solidity Coverage",
+              "description": "Code coverage for solidity testing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89956848,
+                "language": "JavaScript",
+                "last_commit": "2025-12-11T19:32:00Z",
+                "owner": "sc-forks",
+                "repo": "solidity-coverage",
+                "stars": 1003
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Boring Solidity",
+              "description": "BoringSolidity is a collection of general purpose Solidity contracts that have been reasonably optimized, reviewed and tested. Still, they come with no guarantees and are provided as-is.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327811739,
+                "language": "JavaScript",
+                "last_commit": "2022-09-09T09:22:02Z",
+                "owner": "bartjellema",
+                "repo": "BoringSolidity",
+                "stars": 374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solidity Notes",
+              "description": "Solidity Notes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313472590,
+                "language": "Solidity",
+                "last_commit": "2023-02-26T23:06:54Z",
+                "owner": "0xmic",
+                "repo": "solidity",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smart Contract Security Best Practices",
+              "description": "This document provides a baseline knowledge of security considerations for intermediate Solidity programmers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 956692023,
+                "language": "HTML",
+                "last_commit": "2025-03-28T17:57:27Z",
+                "owner": "Consensys",
+                "repo": "smart-contract-best-practices",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Solidity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vyper",
+              "description": "Official Vyper Repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73461676,
+                "language": "Python",
+                "last_commit": "2026-08-12T18:27:52Z",
+                "owner": "vyperlang",
+                "repo": "vyper",
+                "stars": 5179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Snekmate",
+              "description": "State-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519523885,
+                "language": "Solidity",
+                "last_commit": "2026-08-18T10:05:23Z",
+                "owner": "pcaversaccio",
+                "repo": "snekmate",
+                "stars": 603
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vyper Dev",
+              "description": "Vyper resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 321440759,
+                "language": null,
+                "last_commit": "2022-06-05T11:55:46Z",
+                "owner": "zcor",
+                "repo": "vyper-dev",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vyper"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cairo",
+              "description": "Officila Cairo Repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308969758,
+                "language": "Python",
+                "last_commit": "2026-07-28T13:21:55Z",
+                "owner": "starkware-libs",
+                "repo": "cairo-lang",
+                "stars": 1372
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cairo Contracts",
+              "description": "A library for secure smart contract development written in Cairo for StarkNet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397755303,
+                "language": "Rust",
+                "last_commit": "2026-08-19T11:37:16Z",
+                "owner": "OpenZeppelin",
+                "repo": "cairo-contracts",
+                "stars": 911
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cairo Goldmine",
+              "description": "A Comprehensive, Annotated List of Repositories of the Starknet Ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469521454,
+                "language": null,
+                "last_commit": "2022-10-12T16:36:10Z",
+                "owner": "beautyisourbusiness",
+                "repo": "cairo-goldmine",
+                "stars": 292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cairo 101",
+              "description": "Get started with Cairo with this simple tutorial. Complete the puzzles/exercises, get tokens and learn about StarkNet smart contracts!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 510787508,
+                "language": "Cairo",
+                "last_commit": "2022-07-14T20:31:38Z",
+                "owner": "l-henri",
+                "repo": "starknet-cairo-101",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cairo Open",
+              "description": "A set of libraries to help using Cairo on StarkNet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 499409064,
+                "language": "Cairo",
+                "last_commit": "2022-09-15T12:16:36Z",
+                "owner": "CairOpen",
+                "repo": "cairopen-contracts",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cairo"
+        }
+      ],
       "title": "Smart Contracts"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Open Zeppelin Contracts",
-          "description": "A library for secure smart contract development. Build on a solid foundation of community-vetted code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-18T14:18:10Z",
-            "owner": "OpenZeppelin",
-            "repo": "openzeppelin-contracts",
-            "stars": 27218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solidity",
-          "description": "Official solidity repo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T09:26:15Z",
-            "owner": "argotorg",
-            "repo": "solidity",
-            "stars": 25704
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Solidity",
-          "description": "A curated list of awesome Solidity resources, libraries, tools and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-18T07:55:17Z",
-            "owner": "bkrem",
-            "repo": "awesome-solidity",
-            "stars": 7043
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Not So Smart Contracts",
-          "description": "This repository contains examples of common Ethereum smart contract vulnerabilities, including code from real smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Solidity",
-            "last_commit": "2023-02-24T12:18:59Z",
-            "owner": "crytic",
-            "repo": "not-so-smart-contracts",
-            "stars": 2228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solidity Template",
-          "description": "Solidity templates",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-03T17:22:01Z",
-            "owner": "PaulRBerg",
-            "repo": "hardhat-template",
-            "stars": 1971
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Smart Contract Sanctuary",
-          "description": "A home for ethereum smart contracts verified on Etherscan",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-29T15:50:33Z",
-            "owner": "tintinweb",
-            "repo": "smart-contract-sanctuary",
-            "stars": 1593
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solidity Cheatsheet",
-          "description": "Cheatsheet for solidity",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-05T02:30:43Z",
-            "owner": "manojpramesh",
-            "repo": "solidity-cheatsheet",
-            "stars": 1506
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solidity Coverage",
-          "description": "Code coverage for solidity testing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-11T19:32:00Z",
-            "owner": "sc-forks",
-            "repo": "solidity-coverage",
-            "stars": 1003
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Boring Solidity",
-          "description": "BoringSolidity is a collection of general purpose Solidity contracts that have been reasonably optimized, reviewed and tested. Still, they come with no guarantees and are provided as-is.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-09-09T09:22:02Z",
-            "owner": "bartjellema",
-            "repo": "BoringSolidity",
-            "stars": 374
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solidity Notes",
-          "description": "Solidity Notes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2023-02-26T23:06:54Z",
-            "owner": "0xmic",
-            "repo": "solidity",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Smart Contract Security Best Practices",
-          "description": "This document provides a baseline knowledge of security considerations for intermediate Solidity programmers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-03-28T17:57:27Z",
-            "owner": "Consensys",
-            "repo": "smart-contract-best-practices",
-            "stars": 25
-          }
-        }
-      ],
-      "title": "Solidity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Vyper",
-          "description": "Official Vyper Repo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T18:27:52Z",
-            "owner": "vyperlang",
-            "repo": "vyper",
-            "stars": 5179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Snekmate",
-          "description": "State-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2026-08-18T10:05:23Z",
-            "owner": "pcaversaccio",
-            "repo": "snekmate",
-            "stars": 602
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vyper Dev",
-          "description": "Vyper resources",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-06-05T11:55:46Z",
-            "owner": "zcor",
-            "repo": "vyper-dev",
-            "stars": 34
-          }
-        }
-      ],
-      "title": "Vyper"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cairo",
-          "description": "Officila Cairo Repo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T13:21:55Z",
-            "owner": "starkware-libs",
-            "repo": "cairo-lang",
-            "stars": 1372
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cairo Contracts",
-          "description": "A library for secure smart contract development written in Cairo for StarkNet",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T14:23:14Z",
-            "owner": "OpenZeppelin",
-            "repo": "cairo-contracts",
-            "stars": 911
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cairo Goldmine",
-          "description": "A Comprehensive, Annotated List of Repositories of the Starknet Ecosystem.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-10-12T16:36:10Z",
-            "owner": "beautyisourbusiness",
-            "repo": "cairo-goldmine",
-            "stars": 292
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cairo 101",
-          "description": "Get started with Cairo with this simple tutorial. Complete the puzzles/exercises, get tokens and learn about StarkNet smart contracts!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cairo",
-            "last_commit": "2022-07-14T20:31:38Z",
-            "owner": "l-henri",
-            "repo": "starknet-cairo-101",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cairo Open",
-          "description": "A set of libraries to help using Cairo on StarkNet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cairo",
-            "last_commit": "2022-09-15T12:16:36Z",
-            "owner": "CairOpen",
-            "repo": "cairopen-contracts",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Cairo"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -299,11 +322,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378536025,
             "language": "JavaScript",
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10806
+            "stars": 10808
           }
         },
         {
@@ -313,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376155268,
             "language": null,
             "last_commit": "2026-03-14T19:04:35Z",
             "owner": "OffcierCia",
@@ -327,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153064547,
             "language": null,
             "last_commit": "2026-01-14T20:11:22Z",
             "owner": "ong",
@@ -341,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254207733,
             "language": "Solidity",
             "last_commit": "2024-12-09T16:57:10Z",
             "owner": "studydefi",
@@ -355,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356973232,
             "language": "Python",
             "last_commit": "2024-03-02T14:31:12Z",
             "owner": "gauss314",
@@ -369,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355235688,
             "language": null,
             "last_commit": "2022-05-19T01:02:10Z",
             "owner": "defi-defense-dao",
@@ -383,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331316194,
             "language": null,
             "last_commit": "2022-04-25T18:53:24Z",
             "owner": "manifoldfinance",
@@ -397,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 386734735,
             "language": "Python",
             "last_commit": "2026-07-08T07:32:06Z",
             "owner": "irnb",
@@ -411,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 371508340,
             "language": "Solidity",
             "last_commit": "2021-06-05T14:50:53Z",
             "owner": "sudodaksh",
@@ -422,7 +454,7 @@
       "title": "DeFi"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -431,11 +463,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501990676,
             "language": "Solidity",
             "last_commit": "2026-08-18T05:31:42Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6749
+            "stars": 6748
           }
         },
         {
@@ -445,11 +478,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 500124235,
             "language": null,
             "last_commit": "2026-03-01T07:09:19Z",
             "owner": "Anugrahsr",
             "repo": "Awesome-web3-Security",
-            "stars": 1618
+            "stars": 1619
           }
         },
         {
@@ -459,11 +493,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135463860,
             "language": null,
             "last_commit": "2022-09-23T12:06:25Z",
             "owner": "sigp",
             "repo": "solidity-security-blog",
-            "stars": 1523
+            "stars": 1522
           }
         },
         {
@@ -473,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144327211,
             "language": null,
             "last_commit": "2024-08-20T12:39:26Z",
             "owner": "crytic",
@@ -487,11 +523,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479526508,
             "language": null,
             "last_commit": "2023-11-15T16:33:31Z",
             "owner": "nascentxyz",
             "repo": "simple-security-toolkit",
-            "stars": 1233
+            "stars": 1234
           }
         },
         {
@@ -501,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162624279,
             "language": "Dockerfile",
             "last_commit": "2026-03-10T12:46:36Z",
             "owner": "trailofbits",
@@ -515,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126961867,
             "language": null,
             "last_commit": "2020-01-12T02:19:27Z",
             "owner": "nongiach",
@@ -526,7 +565,7 @@
       "title": "Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -535,8 +574,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411607920,
             "language": "Rust",
-            "last_commit": "2026-08-18T13:57:49Z",
+            "last_commit": "2026-08-19T10:04:49Z",
             "owner": "bluealloy",
             "repo": "revm",
             "stars": 2221
@@ -549,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113136685,
             "language": "Rust",
             "last_commit": "2026-08-06T12:10:45Z",
             "owner": "rust-ethereum",
@@ -563,8 +604,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160548111,
             "language": "C++",
-            "last_commit": "2026-08-18T06:00:26Z",
+            "last_commit": "2026-08-19T11:45:38Z",
             "owner": "ipsilon",
             "repo": "evmone",
             "stars": 974
@@ -577,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394801350,
             "language": "JavaScript",
             "last_commit": "2023-08-04T22:25:19Z",
             "owner": "fvictorio",
@@ -591,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 414883301,
             "language": "TypeScript",
             "last_commit": "2026-07-13T15:55:28Z",
             "owner": "duneanalytics",
@@ -605,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230000745,
             "language": null,
             "last_commit": "2024-08-12T11:51:06Z",
             "owner": "wolflo",
@@ -619,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62464598,
             "language": "Go",
             "last_commit": "2021-06-26T14:54:30Z",
             "owner": "CoinCulture",
@@ -633,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138043275,
             "language": "Python",
             "last_commit": "2026-04-17T13:27:15Z",
             "owner": "crytic",
@@ -647,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 93610217,
             "language": "Python",
             "last_commit": "2019-05-07T13:04:11Z",
             "owner": "ethereum",
@@ -661,6 +709,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 154743215,
             "language": "C++",
             "last_commit": "2024-04-13T17:42:56Z",
             "owner": "microsoft",
@@ -675,6 +724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337157801,
             "language": "Rust",
             "last_commit": "2024-06-21T14:03:45Z",
             "owner": "quilt",
@@ -689,6 +739,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 465773894,
             "language": null,
             "last_commit": "2023-02-02T15:59:58Z",
             "owner": "0xKitsune",
@@ -703,6 +754,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203947471,
             "language": "Go",
             "last_commit": "2026-07-15T11:26:11Z",
             "owner": "holiman",
@@ -717,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476888434,
             "language": "Solidity",
             "last_commit": "2023-04-19T22:46:30Z",
             "owner": "brockelmore",
@@ -731,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378993307,
             "language": "Rust",
             "last_commit": "2022-02-17T15:01:13Z",
             "owner": "vorot93",
@@ -745,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477732410,
             "language": "Nim",
             "last_commit": "2022-04-05T18:19:00Z",
             "owner": "DanielVF",
@@ -756,7 +811,7 @@
       "title": "EVM"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -765,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313976994,
             "language": null,
             "last_commit": "2024-12-30T18:45:19Z",
             "owner": "flashbots",
@@ -779,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 387544888,
             "language": null,
             "last_commit": "2023-12-21T20:40:20Z",
             "owner": "0xalpharush",
@@ -793,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302645979,
             "language": null,
             "last_commit": "2026-03-31T19:02:00Z",
             "owner": "flashbots",
@@ -807,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312060873,
             "language": "Go",
             "last_commit": "2024-08-21T07:22:39Z",
             "owner": "flashbots",
@@ -821,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 533341251,
             "language": null,
             "last_commit": "2023-09-02T07:29:34Z",
             "owner": "0xemperor",
@@ -835,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 311103802,
             "language": "Rust",
             "last_commit": "2022-11-23T16:14:14Z",
             "owner": "flashbots",
@@ -849,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 358047521,
             "language": null,
             "last_commit": "2021-10-12T21:36:26Z",
             "owner": "Dogetoshi",
@@ -863,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437193621,
             "language": null,
             "last_commit": "2022-04-07T19:20:40Z",
             "owner": "0xmebius",
@@ -877,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244715977,
             "language": "Python",
             "last_commit": "2022-04-02T11:55:51Z",
             "owner": "pdaian",
@@ -891,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 463714021,
             "language": null,
             "last_commit": "2022-03-05T04:16:20Z",
             "owner": "peiyuechen",
@@ -902,7 +967,7 @@
       "title": "MEV"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -911,11 +976,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59573221,
             "language": null,
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7074
+            "stars": 7077
           }
         },
         {
@@ -925,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154688866,
             "language": "CSS",
             "last_commit": "2024-06-07T09:01:50Z",
             "owner": "nakov",
@@ -939,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453737831,
             "language": null,
             "last_commit": "2023-08-13T17:14:49Z",
             "owner": "dcbuild3r",
@@ -953,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118369156,
             "language": "JavaScript",
             "last_commit": "2026-08-15T10:09:13Z",
             "owner": "pubkey",
@@ -967,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210944178,
             "language": "TypeScript",
             "last_commit": "2026-05-27T10:03:08Z",
             "owner": "ethereum",
@@ -981,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116036636,
             "language": "TeX",
             "last_commit": "2023-12-11T16:01:58Z",
             "owner": "boazbk",
@@ -995,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205792736,
             "language": null,
             "last_commit": "2022-08-01T04:16:07Z",
             "owner": "cryptosubtlety",
@@ -1009,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175162772,
             "language": null,
             "last_commit": "2024-12-24T06:39:52Z",
             "owner": "Jamie-Cui",
@@ -1020,7 +1093,7 @@
       "title": "Cryptography"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1029,6 +1102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156949882,
             "language": null,
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
@@ -1043,6 +1117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430532919,
             "language": null,
             "last_commit": "2024-10-15T06:58:06Z",
             "owner": "ventali",
@@ -1057,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486474712,
             "language": null,
             "last_commit": "2026-03-05T17:01:44Z",
             "owner": "ingonyama-zk",
@@ -1071,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 480656314,
             "language": null,
             "last_commit": "2023-12-24T16:04:37Z",
             "owner": "LuozhuZhang",
@@ -1085,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 508835416,
             "language": "SCSS",
             "last_commit": "2023-01-04T22:44:23Z",
             "owner": "delendum-xyz",
@@ -1099,6 +1177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489492125,
             "language": null,
             "last_commit": "2024-08-13T17:55:15Z",
             "owner": "john-light",
@@ -1113,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418090174,
             "language": "Solidity",
             "last_commit": "2021-11-13T11:43:46Z",
             "owner": "JofArnold",
@@ -1127,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418090174,
             "language": "Solidity",
             "last_commit": "2021-11-13T11:43:46Z",
             "owner": "JofArnold",
@@ -1138,290 +1219,389 @@
       "title": "ZKPs"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Geth",
+              "description": "Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15452919,
+                "language": "Go",
+                "last_commit": "2026-08-18T01:40:11Z",
+                "owner": "ethereum",
+                "repo": "go-ethereum",
+                "stars": 51300
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Erigon",
+              "description": "Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188836864,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:16:53Z",
+                "owner": "erigontech",
+                "repo": "erigon",
+                "stars": 3581
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Besu",
+              "description": "Java",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206414745,
+                "language": "Java",
+                "last_commit": "2026-08-19T12:18:10Z",
+                "owner": "besu-eth",
+                "repo": "besu",
+                "stars": 1827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Akula",
+              "description": "Rust",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 283873079,
+                "language": "Rust",
+                "last_commit": "2022-05-23T19:01:30Z",
+                "owner": "openethereum",
+                "repo": "openethereum",
+                "stars": 1626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nethermind",
+              "description": "C# , .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101194285,
+                "language": "C#",
+                "last_commit": "2026-08-19T12:17:57Z",
+                "owner": "NethermindEth",
+                "repo": "nethermind",
+                "stars": 1584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prysm",
+              "description": "Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117156031,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:12:25Z",
+                "owner": "OffchainLabs",
+                "repo": "prysm",
+                "stars": 3776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lighthouse",
+              "description": "Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139952333,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:47:39Z",
+                "owner": "sigp",
+                "repo": "lighthouse",
+                "stars": 3467
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lodester",
+              "description": "TypeScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138313497,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:45:56Z",
+                "owner": "ChainSafe",
+                "repo": "lodestar",
+                "stars": 1419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Teku",
+              "description": "Java",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147802356,
+                "language": "Java",
+                "last_commit": "2026-08-19T10:25:04Z",
+                "owner": "Consensys",
+                "repo": "teku",
+                "stars": 777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nimbus",
+              "description": "Nim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116221698,
+                "language": "Nim",
+                "last_commit": "2026-08-19T10:37:46Z",
+                "owner": "status-im",
+                "repo": "nimbus-eth1",
+                "stars": 627
+              }
+            }
+          ],
+          "description": "Execution Clients\nConsensus Clients",
+          "node_type": "group",
+          "title": "Validator Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Audit Readiness Checklist",
+              "description": "Bare minimum quality checklist",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479526508,
+                "language": null,
+                "last_commit": "2023-11-15T16:33:31Z",
+                "owner": "nascentxyz",
+                "repo": "simple-security-toolkit",
+                "stars": 1234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smart Contracts Audit Checklist",
+              "description": "A checklist of things to look for when auditing Solidity smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 503004543,
+                "language": null,
+                "last_commit": "2023-10-02T03:01:08Z",
+                "owner": "tamjid0x01",
+                "repo": "SmartContracts-audit-checklist",
+                "stars": 798
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Audit Checklist",
+              "description": "A Solidity smart contract auditing checklist",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137932038,
+                "language": null,
+                "last_commit": "2023-03-06T15:58:19Z",
+                "owner": "cryptofinlabs",
+                "repo": "audit-checklist",
+                "stars": 368
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Audit Checklists"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EVM Illustrated",
+              "description": "EVM Illustrations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117318374,
+                "language": null,
+                "last_commit": "2022-06-21T18:53:47Z",
+                "owner": "takenobu-hs",
+                "repo": "ethereum-evm-illustrated",
+                "stars": 285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Ethereum Diagrams",
+              "description": "A curated list of useful diagrams with links to original sources to grasp complex ethereum concepts related to L1, L2, and Defi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454945333,
+                "language": null,
+                "last_commit": "2022-11-17T12:48:15Z",
+                "owner": "dgeorgiev06",
+                "repo": "awesome-ethereum-diagrams",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ethereum Diagrams",
+              "description": "Ethereum Diagrams",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67693817,
+                "language": "HTML",
+                "last_commit": "2022-06-09T10:16:38Z",
+                "owner": "4c656554",
+                "repo": "BlockchainIllustrations",
+                "stars": 67
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Diagrams"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ethereum Developer Tool List",
+              "description": "A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 136638948,
+                "language": null,
+                "last_commit": "2025-03-09T17:40:55Z",
+                "owner": "Consensys",
+                "repo": "ethereum-developer-tools-list",
+                "stars": 5405
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Devpill.me",
+              "description": "A Public Good Blockchain Development Guide",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453737831,
+                "language": null,
+                "last_commit": "2023-08-13T17:14:49Z",
+                "owner": "dcbuild3r",
+                "repo": "blockchain-development-guide",
+                "stars": 1346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome web3",
+              "description": "A curated list of awesome Web3 resources, libraries, tools and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 448622257,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T11:14:25Z",
+                "owner": "ahmet",
+                "repo": "awesome-web3",
+                "stars": 887
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Crypto Trackers",
+              "description": "A curated list of crypto project trackers and analytics dashboards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162764963,
+                "language": null,
+                "last_commit": "2025-03-25T21:16:57Z",
+                "owner": "denisnazarov",
+                "repo": "awesome-crypto-trackers",
+                "stars": 484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Protocol Reading List",
+              "description": "This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 462065267,
+                "language": null,
+                "last_commit": "2022-09-23T14:01:06Z",
+                "owner": "b-chiang",
+                "repo": "protocol-reading-list",
+                "stars": 457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AMMs",
+              "description": "Collection of AMMs, Orderbooks, and everything in between.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519926484,
+                "language": null,
+                "last_commit": "2024-08-06T18:48:04Z",
+                "owner": "0xperp",
+                "repo": "awesome-amm",
+                "stars": 338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web3 Resources",
+              "description": "Selection of Web3 tools & resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528157382,
+                "language": null,
+                "last_commit": "2024-03-28T22:00:18Z",
+                "owner": "vikvikvikkk",
+                "repo": "Web3",
+                "stars": 123
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Special Mentions"
+        }
+      ],
       "title": "Misc"
-    },
-    {
-      "description": "Execution Clients",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Geth",
-          "description": "Go",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T01:40:11Z",
-            "owner": "ethereum",
-            "repo": "go-ethereum",
-            "stars": 51293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Erigon",
-          "description": "Go",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T14:58:52Z",
-            "owner": "erigontech",
-            "repo": "erigon",
-            "stars": 3580
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Besu",
-          "description": "Java",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T14:12:35Z",
-            "owner": "besu-eth",
-            "repo": "besu",
-            "stars": 1827
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Akula",
-          "description": "Rust",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-05-23T19:01:30Z",
-            "owner": "openethereum",
-            "repo": "openethereum",
-            "stars": 1626
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nethermind",
-          "description": "C# , .NET",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T14:45:13Z",
-            "owner": "NethermindEth",
-            "repo": "nethermind",
-            "stars": 1584
-          }
-        }
-      ],
-      "title": "Validator Clients"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Audit Readiness Checklist",
-          "description": "Bare minimum quality checklist",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-11-15T16:33:31Z",
-            "owner": "nascentxyz",
-            "repo": "simple-security-toolkit",
-            "stars": 1233
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Smart Contracts Audit Checklist",
-          "description": "A checklist of things to look for when auditing Solidity smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-10-02T03:01:08Z",
-            "owner": "tamjid0x01",
-            "repo": "SmartContracts-audit-checklist",
-            "stars": 798
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Audit Checklist",
-          "description": "A Solidity smart contract auditing checklist",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-03-06T15:58:19Z",
-            "owner": "cryptofinlabs",
-            "repo": "audit-checklist",
-            "stars": 368
-          }
-        }
-      ],
-      "title": "Audit Checklists"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "EVM Illustrated",
-          "description": "EVM Illustrations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-06-21T18:53:47Z",
-            "owner": "takenobu-hs",
-            "repo": "ethereum-evm-illustrated",
-            "stars": 285
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Ethereum Diagrams",
-          "description": "A curated list of useful diagrams with links to original sources to grasp complex ethereum concepts related to L1, L2, and Defi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-11-17T12:48:15Z",
-            "owner": "dgeorgiev06",
-            "repo": "awesome-ethereum-diagrams",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ethereum Diagrams",
-          "description": "Ethereum Diagrams",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-06-09T10:16:38Z",
-            "owner": "4c656554",
-            "repo": "BlockchainIllustrations",
-            "stars": 67
-          }
-        }
-      ],
-      "title": "Diagrams"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ethereum Developer Tool List",
-          "description": "A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2025-03-09T17:40:55Z",
-            "owner": "Consensys",
-            "repo": "ethereum-developer-tools-list",
-            "stars": 5405
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Devpill.me",
-          "description": "A Public Good Blockchain Development Guide",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-08-13T17:14:49Z",
-            "owner": "dcbuild3r",
-            "repo": "blockchain-development-guide",
-            "stars": 1346
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome web3",
-          "description": "A curated list of awesome Web3 resources, libraries, tools and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T11:14:25Z",
-            "owner": "ahmet",
-            "repo": "awesome-web3",
-            "stars": 887
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Crypto Trackers",
-          "description": "A curated list of crypto project trackers and analytics dashboards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-03-25T21:16:57Z",
-            "owner": "denisnazarov",
-            "repo": "awesome-crypto-trackers",
-            "stars": 484
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Protocol Reading List",
-          "description": "This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-23T14:01:06Z",
-            "owner": "b-chiang",
-            "repo": "protocol-reading-list",
-            "stars": 457
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome AMMs",
-          "description": "Collection of AMMs, Orderbooks, and everything in between.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-08-06T18:48:04Z",
-            "owner": "0xperp",
-            "repo": "awesome-amm",
-            "stars": 338
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Web3 Resources",
-          "description": "Selection of Web3 tools & resources",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-28T22:00:18Z",
-            "owner": "vikvikvikkk",
-            "repo": "Web3",
-            "stars": 123
-          }
-        }
-      ],
-      "title": "Special Mentions"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:01:30.247Z",
+    "last_updated": "2026-08-19T12:19:32.062Z",
     "original_repository": "arpitingle/Library-of-Ethereum",
+    "original_repository_id": 499590305,
     "original_repository_sha": "fe29a93e0ae0316a22c36e596fd38eb4eb98b9d6",
     "enhanced_repository": "enhansome/enhansome-Library-of-Ethereum",
     "enhanced_repository_description": null,
