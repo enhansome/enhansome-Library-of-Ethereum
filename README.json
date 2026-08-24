@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 64700934,
                 "language": "Solidity",
-                "last_commit": "2026-08-21T14:31:31Z",
+                "last_commit": "2026-08-24T13:47:43Z",
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27228
+                "stars": 27232
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 40892817,
                 "language": "C++",
-                "last_commit": "2026-08-21T12:58:21Z",
+                "last_commit": "2026-08-24T14:24:02Z",
                 "owner": "argotorg",
                 "repo": "solidity",
-                "stars": 25708
+                "stars": 25711
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-18T07:55:17Z",
                 "owner": "bkrem",
                 "repo": "awesome-solidity",
-                "stars": 7048
+                "stars": 7046
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-12T18:27:52Z",
                 "owner": "vyperlang",
                 "repo": "vyper",
-                "stars": 5179
+                "stars": 5180
               }
             },
             {
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 519523885,
                 "language": "Solidity",
-                "last_commit": "2026-08-18T10:05:23Z",
+                "last_commit": "2026-08-24T11:14:51Z",
                 "owner": "pcaversaccio",
                 "repo": "snekmate",
                 "stars": 603
@@ -241,7 +241,7 @@
                 "last_commit": "2026-07-28T13:21:55Z",
                 "owner": "starkware-libs",
                 "repo": "cairo-lang",
-                "stars": 1370
+                "stars": 1369
               }
             },
             {
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10817
+            "stars": 10818
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2022-05-19T01:02:10Z",
             "owner": "defi-defense-dao",
             "repo": "defi-risk-tools-list",
-            "stars": 174
+            "stars": 173
           }
         },
         {
@@ -465,10 +465,10 @@
             "archived": false,
             "id": 501990676,
             "language": "Solidity",
-            "last_commit": "2026-08-23T03:01:03Z",
+            "last_commit": "2026-08-24T03:06:00Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6751
+            "stars": 6755
           }
         },
         {
@@ -606,7 +606,7 @@
             "archived": false,
             "id": 160548111,
             "language": "C++",
-            "last_commit": "2026-08-22T18:09:08Z",
+            "last_commit": "2026-08-24T11:36:10Z",
             "owner": "ipsilon",
             "repo": "evmone",
             "stars": 974
@@ -825,7 +825,7 @@
             "last_commit": "2024-12-30T18:45:19Z",
             "owner": "flashbots",
             "repo": "pm",
-            "stars": 2595
+            "stars": 2594
           }
         },
         {
@@ -851,8 +851,8 @@
           "repo_info": {
             "archived": false,
             "id": 302645979,
-            "language": null,
-            "last_commit": "2026-03-31T19:02:00Z",
+            "language": "Python",
+            "last_commit": "2026-08-24T01:30:54Z",
             "owner": "flashbots",
             "repo": "mev-research",
             "stars": 995
@@ -981,7 +981,7 @@
             "last_commit": "2026-07-15T08:39:47Z",
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7085
+            "stars": 7087
           }
         },
         {
@@ -1023,7 +1023,7 @@
             "archived": false,
             "id": 118369156,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T06:29:26Z",
+            "last_commit": "2026-08-23T21:48:12Z",
             "owner": "pubkey",
             "repo": "eth-crypto",
             "stars": 921
@@ -1107,7 +1107,7 @@
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5803
+            "stars": 5804
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2026-03-05T17:01:44Z",
             "owner": "ingonyama-zk",
             "repo": "ingopedia",
-            "stars": 740
+            "stars": 741
           }
         },
         {
@@ -1232,10 +1232,10 @@
                 "archived": false,
                 "id": 15452919,
                 "language": "Go",
-                "last_commit": "2026-08-20T08:58:15Z",
+                "last_commit": "2026-08-24T13:22:53Z",
                 "owner": "ethereum",
                 "repo": "go-ethereum",
-                "stars": 51310
+                "stars": 51315
               }
             },
             {
@@ -1247,7 +1247,7 @@
                 "archived": false,
                 "id": 188836864,
                 "language": "Go",
-                "last_commit": "2026-08-23T14:14:41Z",
+                "last_commit": "2026-08-24T14:25:03Z",
                 "owner": "erigontech",
                 "repo": "erigon",
                 "stars": 3579
@@ -1262,10 +1262,10 @@
                 "archived": false,
                 "id": 206414745,
                 "language": "Java",
-                "last_commit": "2026-08-21T03:42:14Z",
+                "last_commit": "2026-08-24T13:37:12Z",
                 "owner": "besu-eth",
                 "repo": "besu",
-                "stars": 1828
+                "stars": 1830
               }
             },
             {
@@ -1292,7 +1292,7 @@
                 "archived": false,
                 "id": 101194285,
                 "language": "C#",
-                "last_commit": "2026-08-23T13:27:30Z",
+                "last_commit": "2026-08-24T14:25:46Z",
                 "owner": "NethermindEth",
                 "repo": "nethermind",
                 "stars": 1585
@@ -1307,7 +1307,7 @@
                 "archived": false,
                 "id": 117156031,
                 "language": "Go",
-                "last_commit": "2026-08-22T12:08:33Z",
+                "last_commit": "2026-08-24T14:25:28Z",
                 "owner": "OffchainLabs",
                 "repo": "prysm",
                 "stars": 3774
@@ -1322,10 +1322,10 @@
                 "archived": false,
                 "id": 139952333,
                 "language": "Rust",
-                "last_commit": "2026-08-21T22:45:59Z",
+                "last_commit": "2026-08-24T10:49:41Z",
                 "owner": "sigp",
                 "repo": "lighthouse",
-                "stars": 3467
+                "stars": 3466
               }
             },
             {
@@ -1337,10 +1337,10 @@
                 "archived": false,
                 "id": 138313497,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:00:12Z",
+                "last_commit": "2026-08-24T13:24:34Z",
                 "owner": "ChainSafe",
                 "repo": "lodestar",
-                "stars": 1418
+                "stars": 1419
               }
             },
             {
@@ -1352,7 +1352,7 @@
                 "archived": false,
                 "id": 147802356,
                 "language": "Java",
-                "last_commit": "2026-08-22T22:50:21Z",
+                "last_commit": "2026-08-24T05:18:00Z",
                 "owner": "Consensys",
                 "repo": "teku",
                 "stars": 778
@@ -1367,7 +1367,7 @@
                 "archived": false,
                 "id": 116221698,
                 "language": "Nim",
-                "last_commit": "2026-08-22T14:48:16Z",
+                "last_commit": "2026-08-24T13:19:38Z",
                 "owner": "status-im",
                 "repo": "nimbus-eth1",
                 "stars": 628
@@ -1377,6 +1377,50 @@
           "description": "Execution Clients\nConsensus Clients",
           "node_type": "group",
           "title": "Validator Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Oracle Mamipulation",
+              "description": "All awesome awesome oracacle manipulation related content",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 520661276,
+                "language": null,
+                "last_commit": "2024-03-29T06:15:00Z",
+                "owner": "0xcacti",
+                "repo": "awesome-oracle-manipulation",
+                "stars": 528
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Oracles"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Governance",
+              "description": "Contracts, links and other stuff that makes Governance Awesome.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376935174,
+                "language": "Solidity",
+                "last_commit": "2021-08-04T23:06:38Z",
+                "owner": "Ro5s",
+                "repo": "Awesome-Governance",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Governance"
         },
         {
           "children": [
@@ -1523,7 +1567,7 @@
                 "archived": false,
                 "id": 448622257,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T18:36:45Z",
+                "last_commit": "2026-08-24T11:14:43Z",
                 "owner": "ahmet",
                 "repo": "awesome-web3",
                 "stars": 887
@@ -1599,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:48:44.825Z",
+    "last_updated": "2026-08-24T14:29:03.647Z",
     "original_repository": "arpitingle/Library-of-Ethereum",
     "original_repository_id": 499590305,
     "original_repository_sha": "fe29a93e0ae0316a22c36e596fd38eb4eb98b9d6",
