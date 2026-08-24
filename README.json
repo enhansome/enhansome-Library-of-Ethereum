@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 64700934,
                 "language": "Solidity",
-                "last_commit": "2026-08-24T13:47:43Z",
+                "last_commit": "2026-08-24T14:42:07Z",
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
                 "stars": 27232
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-18T07:55:17Z",
                 "owner": "bkrem",
                 "repo": "awesome-solidity",
-                "stars": 7046
+                "stars": 7045
               }
             },
             {
@@ -1247,7 +1247,7 @@
                 "archived": false,
                 "id": 188836864,
                 "language": "Go",
-                "last_commit": "2026-08-24T14:25:03Z",
+                "last_commit": "2026-08-24T15:00:13Z",
                 "owner": "erigontech",
                 "repo": "erigon",
                 "stars": 3579
@@ -1292,7 +1292,7 @@
                 "archived": false,
                 "id": 101194285,
                 "language": "C#",
-                "last_commit": "2026-08-24T14:25:46Z",
+                "last_commit": "2026-08-24T15:00:59Z",
                 "owner": "NethermindEth",
                 "repo": "nethermind",
                 "stars": 1585
@@ -1307,7 +1307,7 @@
                 "archived": false,
                 "id": 117156031,
                 "language": "Go",
-                "last_commit": "2026-08-24T14:25:28Z",
+                "last_commit": "2026-08-24T14:30:21Z",
                 "owner": "OffchainLabs",
                 "repo": "prysm",
                 "stars": 3774
@@ -1337,7 +1337,7 @@
                 "archived": false,
                 "id": 138313497,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:24:34Z",
+                "last_commit": "2026-08-24T15:06:19Z",
                 "owner": "ChainSafe",
                 "repo": "lodestar",
                 "stars": 1419
@@ -1367,7 +1367,7 @@
                 "archived": false,
                 "id": 116221698,
                 "language": "Nim",
-                "last_commit": "2026-08-24T13:19:38Z",
+                "last_commit": "2026-08-24T14:46:24Z",
                 "owner": "status-im",
                 "repo": "nimbus-eth1",
                 "stars": 628
@@ -1643,7 +1643,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:03.647Z",
+    "last_updated": "2026-08-24T15:09:53.242Z",
     "original_repository": "arpitingle/Library-of-Ethereum",
     "original_repository_id": 499590305,
     "original_repository_sha": "fe29a93e0ae0316a22c36e596fd38eb4eb98b9d6",

@@ -33,8 +33,8 @@ Curated Collection of Ethereum Ecosystem Resources
 ### Solidity
 
 * [Open Zeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,232 | 🐛 372 | 🌐 Solidity | 📅 2026-08-24 - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
-* [Solidity](https://github.com/ethereum/solidity) ⭐ 25,711 | 🐛 798 | 🌐 C++ | 📅 2026-08-24 - Official solidity repo
-* [Awesome Solidity](https://github.com/bkrem/awesome-solidity) ⭐ 7,046 | 🐛 25 | 📅 2026-08-18 - A curated list of awesome Solidity resources, libraries, tools and more.
+* [Solidity](https://github.com/ethereum/solidity) ⭐ 25,711 | 🐛 797 | 🌐 C++ | 📅 2026-08-24 - Official solidity repo
+* [Awesome Solidity](https://github.com/bkrem/awesome-solidity) ⭐ 7,045 | 🐛 25 | 📅 2026-08-18 - A curated list of awesome Solidity resources, libraries, tools and more.
 * [Not So Smart Contracts](https://github.com/crytic/not-so-smart-contracts) ⚠️ Archived - This repository contains examples of common Ethereum smart contract vulnerabilities, including code from real smart contracts.
 * [Solidity Template](https://github.com/paulrberg/solidity-template) ⭐ 1,971 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-03 - Solidity templates
 * [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) ⭐ 1,593 | 🐛 7 | 🌐 Python | 📅 2026-07-29 - A home for ethereum smart contracts verified on Etherscan
@@ -163,18 +163,18 @@ Curated Collection of Ethereum Ecosystem Resources
 Execution Clients
 
 * [Geth](https://github.com/ethereum/go-ethereum) ⭐ 51,315 | 🐛 416 | 🌐 Go | 📅 2026-08-24 - Go
-* [Erigon](https://github.com/ledgerwatch/erigon) ⭐ 3,579 | 🐛 686 | 🌐 Go | 📅 2026-08-24 - Go
-* [Besu](https://github.com/hyperledger/besu) ⭐ 1,830 | 🐛 199 | 🌐 Java | 📅 2026-08-24 - Java
+* [Erigon](https://github.com/ledgerwatch/erigon) ⭐ 3,579 | 🐛 685 | 🌐 Go | 📅 2026-08-24 - Go
+* [Besu](https://github.com/hyperledger/besu) ⭐ 1,830 | 🐛 200 | 🌐 Java | 📅 2026-08-24 - Java
 * [Akula](https://github.com/openethereum/openethereum) ⚠️ Archived - Rust
-* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,585 | 🐛 401 | 🌐 C# | 📅 2026-08-24 - C# , .NET
+* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,585 | 🐛 402 | 🌐 C# | 📅 2026-08-24 - C# , .NET
 
 Consensus Clients
 
-* [Prysm](https://github.com/prysmaticlabs/prysm) ⭐ 3,774 | 🐛 595 | 🌐 Go | 📅 2026-08-24 - Go
+* [Prysm](https://github.com/prysmaticlabs/prysm) ⭐ 3,774 | 🐛 594 | 🌐 Go | 📅 2026-08-24 - Go
 * [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,466 | 🐛 522 | 🌐 Rust | 📅 2026-08-24 - Rust
 * [Lodester](https://github.com/chainsafe/lodestar) ⭐ 1,419 | 🐛 359 | 🌐 TypeScript | 📅 2026-08-24 - TypeScript
 * [Teku](https://github.com/ConsenSys/teku) ⭐ 778 | 🐛 225 | 🌐 Java | 📅 2026-08-24 - Java
-* [Nimbus](https://github.com/status-im/nimbus-eth1) ⭐ 628 | 🐛 108 | 🌐 Nim | 📅 2026-08-24 - Nim
+* [Nimbus](https://github.com/status-im/nimbus-eth1) ⭐ 628 | 🐛 109 | 🌐 Nim | 📅 2026-08-24 - Nim
 
 ### Oracles
 
