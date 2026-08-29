@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+                "homepage": "https://openzeppelin.com/contracts",
                 "id": 64700934,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:07:54Z",
+                "open_issues": 374,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27234
+                "stars": 27234,
+                "topics": [
+                  "ethereum",
+                  "evm",
+                  "security",
+                  "smart-contracts",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -28,12 +39,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solidity, the Smart Contract Programming Language",
+                "homepage": "https://soliditylang.org",
                 "id": 40892817,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T21:18:21Z",
+                "open_issues": 801,
                 "owner": "argotorg",
                 "repo": "solidity",
-                "stars": 25717
+                "stars": 25717,
+                "topics": [
+                  "blockchain",
+                  "cpp",
+                  "ethereum",
+                  "hacktoberfest",
+                  "language",
+                  "programming-language",
+                  "smartcontracts",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -44,12 +69,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⟠ A curated list of awesome Solidity resources, libraries, tools and more",
+                "homepage": "https://bkrem.github.io/awesome-solidity",
                 "id": 62893187,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-18T07:55:17Z",
+                "open_issues": 26,
                 "owner": "bkrem",
                 "repo": "awesome-solidity",
-                "stars": 7044
+                "stars": 7044,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "contract-solidity",
+                  "dapps",
+                  "ethereum",
+                  "linter-solidity",
+                  "lists",
+                  "resources",
+                  "solidity",
+                  "solidity-compiler",
+                  "solidity-contracts",
+                  "solidity-coverage",
+                  "solidity-dapps",
+                  "solidity-language",
+                  "solidity-parser",
+                  "solidity-security",
+                  "solidity-web",
+                  "web3",
+                  "web3-dapp",
+                  "web3-solidity"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -60,12 +111,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Examples of Solidity security issues",
+                "homepage": null,
                 "id": 101668791,
                 "language": "Solidity",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-24T12:18:59Z",
+                "open_issues": 10,
                 "owner": "crytic",
                 "repo": "not-so-smart-contracts",
-                "stars": 2226
+                "stars": 2226,
+                "topics": [
+                  "ethereum",
+                  "solidity",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -76,12 +136,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hardhat-based template for developing Solidity smart contracts",
+                "homepage": null,
                 "id": 277660991,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-03T17:22:01Z",
+                "open_issues": 2,
                 "owner": "PaulRBerg",
                 "repo": "hardhat-template",
-                "stars": 1972
+                "stars": 1972,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "ethers",
+                  "hardhat",
+                  "smart-contracts",
+                  "solidity",
+                  "template",
+                  "typechain",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -92,12 +167,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠",
+                "homepage": "https://tintinweb.github.io/smart-contract-sanctuary/",
                 "id": 137944558,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-29T15:50:33Z",
+                "open_issues": 7,
                 "owner": "tintinweb",
                 "repo": "smart-contract-sanctuary",
-                "stars": 1593
+                "stars": 1593,
+                "topics": [
+                  "arbitrum",
+                  "avalanche-c-chain",
+                  "binance-smart-chain",
+                  "blockchain",
+                  "ethereum",
+                  "ethereum-contract",
+                  "maticnetwork",
+                  "polygon",
+                  "smart-contracts",
+                  "solidity",
+                  "tron-protocol"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -108,12 +200,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.",
+                "homepage": "https://manojpramesh.github.io/solidity-cheatsheet/",
                 "id": 111513785,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-05T02:30:43Z",
+                "open_issues": 0,
                 "owner": "manojpramesh",
                 "repo": "solidity-cheatsheet",
-                "stars": 1506
+                "stars": 1506,
+                "topics": [
+                  "best-practices",
+                  "blockchain",
+                  "ethereum",
+                  "solidity",
+                  "solidity-cheatsheet"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -124,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code coverage for Solidity smart-contracts ",
+                "homepage": null,
                 "id": 89956848,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-12-11T19:32:00Z",
+                "open_issues": 42,
                 "owner": "sc-forks",
                 "repo": "solidity-coverage",
-                "stars": 1003
+                "stars": 1003,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -140,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basic Solidity Contracts and Libraries to make life easier",
+                "homepage": null,
                 "id": 327811739,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-09-09T09:22:02Z",
+                "open_issues": 2,
                 "owner": "bartjellema",
                 "repo": "BoringSolidity",
-                "stars": 374
+                "stars": 374,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -156,12 +269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notes on Solidity",
+                "homepage": null,
                 "id": 313472590,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2023-02-26T23:06:54Z",
+                "open_issues": 2,
                 "owner": "0xmic",
                 "repo": "solidity",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -172,12 +290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A guide to smart contract security best practices ",
+                "homepage": null,
                 "id": 956692023,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-03-28T17:57:27Z",
+                "open_issues": 0,
                 "owner": "Consensys",
                 "repo": "smart-contract-best-practices",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             }
@@ -195,12 +318,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pythonic Smart Contract Language for the EVM",
+                "homepage": "https://vyperlang.org",
                 "id": 73461676,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:14:45Z",
+                "open_issues": 642,
                 "owner": "vyperlang",
                 "repo": "vyper",
-                "stars": 5180
+                "stars": 5180,
+                "topics": [
+                  "ethereum",
+                  "ethereum-dapp",
+                  "language",
+                  "python",
+                  "vyper"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -211,12 +345,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "State-of-the-art, highly opinionated, hyper-optimised, and secure 🐍Vyper smart contract building blocks.",
+                "homepage": "https://snekmate.com",
                 "id": 519523885,
                 "language": "Solidity",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-24T11:14:51Z",
+                "open_issues": 14,
                 "owner": "pcaversaccio",
                 "repo": "snekmate",
-                "stars": 603
+                "stars": 603,
+                "topics": [
+                  "ethereum",
+                  "evm",
+                  "library",
+                  "security",
+                  "smart-contracts",
+                  "vyper",
+                  "vyper-contracts"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -227,12 +374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vyper resources",
+                "homepage": null,
                 "id": 321440759,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-06-05T11:55:46Z",
+                "open_issues": 0,
                 "owner": "zcor",
                 "repo": "vyper-dev",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             }
@@ -250,12 +402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 308969758,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-28T13:21:55Z",
+                "open_issues": 143,
                 "owner": "starkware-libs",
                 "repo": "cairo-lang",
-                "stars": 1369
+                "stars": 1369,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -266,12 +423,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenZeppelin Contracts written in Cairo for Starknet, a decentralized ZK Rollup",
+                "homepage": "https://docs.openzeppelin.com/contracts-cairo",
                 "id": 397755303,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:26:59Z",
+                "open_issues": 34,
                 "owner": "OpenZeppelin",
                 "repo": "cairo-contracts",
-                "stars": 909
+                "stars": 909,
+                "topics": [
+                  "cairo",
+                  "ethereum",
+                  "security",
+                  "smart-contracts",
+                  "starknet"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -282,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A COMPREHENSIVE, ANNOTATED LIST OF REPOSITORIES OF THE STARKNET ECOSYSTEM",
+                "homepage": null,
                 "id": 469521454,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-10-12T16:36:10Z",
+                "open_issues": 2,
                 "owner": "beautyisourbusiness",
                 "repo": "cairo-goldmine",
-                "stars": 292
+                "stars": 292,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -298,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 510787508,
                 "language": "Cairo",
+                "license": null,
                 "last_commit": "2022-07-14T20:31:38Z",
+                "open_issues": 0,
                 "owner": "l-henri",
                 "repo": "starknet-cairo-101",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -314,12 +492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of standardised Cairo librairies for use on StarkNet",
+                "homepage": null,
                 "id": 499409064,
                 "language": "Cairo",
+                "license": "MIT",
                 "last_commit": "2022-09-15T12:16:36Z",
+                "open_issues": 1,
                 "owner": "CairOpen",
                 "repo": "cairopen-contracts",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             }
@@ -341,12 +524,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
+            "homepage": "https://officercia.medium.com/",
             "id": 378536025,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T23:17:39Z",
+            "open_issues": 5,
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10820
+            "stars": 10821,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "blockchain",
+              "curated-list",
+              "defi",
+              "ethereum",
+              "knowledge-base",
+              "roadmap",
+              "smart-contracts",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -357,12 +556,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
+            "homepage": "https://officercia.medium.com/",
             "id": 376155268,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-03-14T19:04:35Z",
+            "open_issues": 1,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2212
+            "stars": 2212,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bitcoin",
+              "blockchain",
+              "blockchain-technology",
+              "cryptocurrency",
+              "curated-list",
+              "defi",
+              "ethereum",
+              "knowledge-base",
+              "research",
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -373,12 +590,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome decentralized finance projects",
+            "homepage": null,
             "id": 153064547,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-14T20:11:22Z",
+            "open_issues": 79,
             "owner": "ong",
             "repo": "awesome-decentralized-finance",
-            "stars": 1659
+            "stars": 1659,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "blockchain",
+              "decentralized",
+              "decentralized-finance",
+              "defi",
+              "ethereum",
+              "open-finance"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -389,12 +620,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces!",
+            "homepage": "https://money-legos.studydefi.com/",
             "id": 254207733,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2024-12-09T16:57:10Z",
+            "open_issues": 42,
             "owner": "studydefi",
             "repo": "money-legos",
-            "stars": 1025
+            "stars": 1025,
+            "topics": [
+              "blockchain",
+              "defi",
+              "ethereum",
+              "money-legos"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -405,12 +646,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for use in DeFi. Impermanent Loss calculations, staking and farming strategies, coingecko and pancakeswap API queries, liquidity pools and more",
+            "homepage": null,
             "id": 356973232,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-02T14:31:12Z",
+            "open_issues": 15,
             "owner": "gauss314",
             "repo": "defi",
-            "stars": 610
+            "stars": 610,
+            "topics": [
+              "api",
+              "blockchain",
+              "cex",
+              "coingecko",
+              "crypto",
+              "cryptocurrency",
+              "dapp",
+              "defi",
+              "dex",
+              "exchanges",
+              "farming",
+              "impermanent-loss",
+              "pancakeswap",
+              "stake"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -421,12 +682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A guide to available tools and projects for analyzing and managing risk within DeFi.",
+            "homepage": null,
             "id": 355235688,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-05-19T01:02:10Z",
+            "open_issues": 6,
             "owner": "defi-defense-dao",
             "repo": "defi-risk-tools-list",
-            "stars": 173
+            "stars": 173,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -437,12 +703,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum  cutting edge applications, protocols, cryptography, systems and more",
+            "homepage": null,
             "id": 331316194,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2022-04-25T18:53:24Z",
+            "open_issues": 1,
             "owner": "manifoldfinance",
             "repo": "awesome-ethereum-finance",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "awesome-ethereum",
+              "blockchain",
+              "cryptography",
+              "dapps",
+              "decentralized-applications",
+              "defi",
+              "eth2",
+              "ethereum",
+              "evm",
+              "finance",
+              "flashbots",
+              "mev",
+              "smart-contracts",
+              "solidity",
+              "vyper"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -453,12 +740,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated crypto research inbox for papers and technical threads on core blockchain protocols, ZK, L2s, Bitcoin, Ethereum, DeFi, and emerging applications.",
+            "homepage": null,
             "id": 386734735,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-08T07:32:06Z",
+            "open_issues": 0,
             "owner": "irnb",
             "repo": "crypto-papers",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "arxiv",
+              "awsome-list",
+              "blockchain",
+              "defi",
+              "dex",
+              "ethereum",
+              "finance",
+              "lending",
+              "oracle",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -469,12 +772,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️Playground for DeFi protocols like Compound, Aave, Maker & Uniswap.",
+            "homepage": null,
             "id": 371508340,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2021-06-05T14:50:53Z",
+            "open_issues": 0,
             "owner": "sudodaksh",
             "repo": "defi-playground",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "aave",
+              "compound-contracts",
+              "defi",
+              "lending-protocol"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         }
@@ -491,12 +804,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reproduce DeFi hacked incidents using Foundry.",
+            "homepage": null,
             "id": 501990676,
             "language": "Solidity",
-            "last_commit": "2026-08-28T03:03:12Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:00:58Z",
+            "open_issues": 2,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6760
+            "stars": 6760,
+            "topics": [
+              "defi",
+              "ethereum",
+              "foundry",
+              "solidity",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -507,12 +831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of web3Security materials and resources For Pentesters and Bug Hunters.",
+            "homepage": null,
             "id": 500124235,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-01T07:09:19Z",
+            "open_issues": 13,
             "owner": "Anugrahsr",
             "repo": "Awesome-web3-Security",
-            "stars": 1621
+            "stars": 1621,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -523,12 +852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive list of known attack vectors and common anti-patterns",
+            "homepage": "https://blog.sigmaprime.io/solidity-security.html",
             "id": 135463860,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-09-23T12:06:25Z",
+            "open_issues": 4,
             "owner": "sigp",
             "repo": "solidity-security-blog",
-            "stars": 1522
+            "stars": 1522,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -539,12 +873,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Ethereum security references",
+            "homepage": null,
             "id": 144327211,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2024-08-20T12:39:26Z",
+            "open_issues": 39,
             "owner": "crytic",
             "repo": "awesome-ethereum-security",
-            "stars": 1486
+            "stars": 1486,
+            "topics": [
+              "ethereum",
+              "evm",
+              "security",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -555,12 +899,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of practical security-focused guides and checklists for smart contract development",
+            "homepage": null,
             "id": 479526508,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-11-15T16:33:31Z",
+            "open_issues": 1,
             "owner": "nascentxyz",
             "repo": "simple-security-toolkit",
-            "stars": 1233
+            "stars": 1233,
+            "topics": [
+              "crypto",
+              "security",
+              "security-tools",
+              "smart-contracts",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -571,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Docker container preconfigured with all of the Trail of Bits Ethereum security tools.",
+            "homepage": null,
             "id": 162624279,
             "language": "Dockerfile",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T22:44:46Z",
+            "open_issues": 3,
             "owner": "trailofbits",
             "repo": "eth-security-toolbox",
-            "stars": 736
+            "stars": 736,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -587,12 +947,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Curated list about cryptocurrency security (reverse / exploit / fuzz..)",
+            "homepage": null,
             "id": 126961867,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-12T02:19:27Z",
+            "open_issues": 3,
             "owner": "nongiach",
             "repo": "awesome-cryptocurrency-security",
-            "stars": 198
+            "stars": 198,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "cryptocurrency",
+              "ethereum",
+              "exploit",
+              "fuzzing",
+              "reverse-engineering",
+              "security",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         }
@@ -609,12 +984,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust implementation of the Ethereum Virtual Machine.",
+            "homepage": "https://bluealloy.github.io/revm/",
             "id": 411607920,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:27:06Z",
+            "open_issues": 90,
             "owner": "bluealloy",
             "repo": "revm",
-            "stars": 2221
+            "stars": 2221,
+            "topics": [
+              "blockchain",
+              "contributor-friendly",
+              "ethereum",
+              "evm",
+              "revm",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -625,12 +1012,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure Rust implementation of Ethereum Virtual Machine",
+            "homepage": null,
             "id": 113136685,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T12:10:45Z",
+            "open_issues": 27,
             "owner": "rust-ethereum",
             "repo": "evm",
-            "stars": 1323
+            "stars": 1323,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -641,12 +1033,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Ethereum Virtual Machine implementation",
+            "homepage": null,
             "id": 160548111,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:52:30Z",
+            "open_issues": 156,
             "owner": "ipsilon",
             "repo": "evmone",
-            "stars": 976
+            "stars": 976,
+            "topics": [
+              "blockchain",
+              "ethereum",
+              "ethereum-virtual-machine",
+              "evm",
+              "evmc",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -657,12 +1061,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of EVM puzzles",
+            "homepage": null,
             "id": 394801350,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-08-04T22:25:19Z",
+            "open_issues": 7,
             "owner": "fvictorio",
             "repo": "evm-puzzles",
-            "stars": 849
+            "stars": 849,
+            "topics": [
+              "ethereum",
+              "evm",
+              "hardhat"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -673,12 +1086,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference",
+            "homepage": "https://evm.codes/",
             "id": 414883301,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-13T15:55:28Z",
+            "open_issues": 52,
             "owner": "duneanalytics",
             "repo": "evm.codes",
-            "stars": 826
+            "stars": 826,
+            "topics": [
+              "blockchain",
+              "ethereum",
+              "evm",
+              "evm-chains"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -689,12 +1112,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quick reference for EVM opcodes",
+            "homepage": null,
             "id": 230000745,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-08-12T11:51:06Z",
+            "open_issues": 8,
             "owner": "wolflo",
             "repo": "evm-opcodes",
-            "stars": 820
+            "stars": 820,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -705,12 +1133,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum Virtual Machine tools and guide",
+            "homepage": null,
             "id": 62464598,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2021-06-26T14:54:30Z",
+            "open_issues": 5,
             "owner": "CoinCulture",
             "repo": "evm-tools",
-            "stars": 447
+            "stars": 447,
+            "topics": [
+              "ethereum",
+              "evm"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -721,12 +1157,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum Virtual Machine (EVM) disassembler and assembler",
+            "homepage": null,
             "id": 138043275,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-17T13:27:15Z",
+            "open_issues": 20,
             "owner": "crytic",
             "repo": "pyevmasm",
-            "stars": 387
+            "stars": 387,
+            "topics": [
+              "assembler",
+              "dissassembler",
+              "ethereum",
+              "evm",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -737,12 +1184,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Utilities for interacting with the Ethereum virtual machine",
+            "homepage": null,
             "id": 93610217,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2019-05-07T13:04:11Z",
+            "open_issues": 10,
             "owner": "ethereum",
             "repo": "evmlab",
-            "stars": 383
+            "stars": 383,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -753,12 +1205,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Enclave ready EVM (eEVM) is an open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine.",
+            "homepage": "http://microsoft.com/blockchain",
             "id": 154743215,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-04-13T17:42:56Z",
+            "open_issues": 5,
             "owner": "microsoft",
             "repo": "eEVM",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "blockchain",
+              "enclave",
+              "ethereum",
+              "sgx",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -769,12 +1232,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "evm toolkit",
+            "homepage": null,
             "id": 337157801,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-21T14:03:45Z",
+            "open_issues": 40,
             "owner": "quilt",
             "repo": "etk",
-            "stars": 355
+            "stars": 355,
+            "topics": [
+              "assembler",
+              "cryptocurrency",
+              "ethereum",
+              "evm"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -785,12 +1258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of EVM related information.",
+            "homepage": null,
             "id": 465773894,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-02T15:59:58Z",
+            "open_issues": 0,
             "owner": "0xKitsune",
             "repo": "EVM-Book",
-            "stars": 337
+            "stars": 337,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -801,12 +1279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evm laboratory",
+            "homepage": null,
             "id": 203947471,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T23:15:33Z",
+            "open_issues": 7,
             "owner": "holiman",
             "repo": "goevmlab",
-            "stars": 313
+            "stars": 313,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -817,12 +1300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "evm inception: the evm inside the evm via yul and solidity",
+            "homepage": null,
             "id": 476888434,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2023-04-19T22:46:30Z",
+            "open_issues": 0,
             "owner": "brockelmore",
             "repo": "solvm",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -833,12 +1321,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum Virtual Machine implementation",
+            "homepage": null,
             "id": 378993307,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-02-17T15:01:13Z",
+            "open_issues": 1,
             "owner": "vorot93",
             "repo": "evmodin",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "ethereum",
+              "evm",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -849,12 +1346,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Draw EVM contract byte code",
+            "homepage": null,
             "id": 477732410,
             "language": "Nim",
+            "license": "MIT",
             "last_commit": "2022-04-05T18:19:00Z",
+            "open_issues": 0,
             "owner": "DanielVF",
             "repo": "evm-contract-draw",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         }
@@ -871,12 +1373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Everything there is to know about Flashbots",
+            "homepage": null,
             "id": 313976994,
             "language": null,
+            "license": null,
             "last_commit": "2024-12-30T18:45:19Z",
+            "open_issues": 19,
             "owner": "flashbots",
             "repo": "pm",
-            "stars": 2592
+            "stars": 2592,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -887,12 +1394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get up to speed on Maximum Extractable Value",
+            "homepage": null,
             "id": 387544888,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-21T20:40:20Z",
+            "open_issues": 2,
             "owner": "0xalpharush",
             "repo": "awesome-MEV-resources",
-            "stars": 1155
+            "stars": 1155,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -903,12 +1415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project management for MEV Research",
+            "homepage": null,
             "id": 302645979,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-25T15:17:44Z",
+            "open_issues": 0,
             "owner": "flashbots",
             "repo": "mev-research",
-            "stars": 996
+            "stars": 996,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -919,12 +1436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go implementation of MEV-Auction for Ethereum",
+            "homepage": null,
             "id": 312060873,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2024-08-21T07:22:39Z",
+            "open_issues": 28,
             "owner": "flashbots",
             "repo": "mev-geth",
-            "stars": 805
+            "stars": 805,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -935,12 +1457,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of MEV resources with a focus on past research papers/talks.",
+            "homepage": null,
             "id": 533341251,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-09-02T07:29:34Z",
+            "open_issues": 1,
             "owner": "0xemperor",
             "repo": "Awesome-MEV",
-            "stars": 631
+            "stars": 631,
+            "topics": [
+              "avalanche",
+              "awesome-list",
+              "crypto",
+              "ethereum",
+              "mev",
+              "mev-research",
+              "miner-extracted-value",
+              "solana"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -951,12 +1487,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Discover historic Miner Extractable Value (MEV) opportunities",
+            "homepage": null,
             "id": 311103802,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-11-23T16:14:14Z",
+            "open_issues": 24,
             "owner": "flashbots",
             "repo": "mev-inspect-rs",
-            "stars": 561
+            "stars": 561,
+            "topics": [
+              "arbitrage",
+              "defi",
+              "ethereum",
+              "liquidation",
+              "mev",
+              "rust",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -967,12 +1516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MEV Stuff",
+            "homepage": null,
             "id": 358047521,
             "language": null,
+            "license": null,
             "last_commit": "2021-10-12T21:36:26Z",
+            "open_issues": 0,
             "owner": "Dogetoshi",
             "repo": "MEV",
-            "stars": 430
+            "stars": 430,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -983,12 +1537,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 437193621,
             "language": null,
+            "license": null,
             "last_commit": "2022-04-07T19:20:40Z",
+            "open_issues": 1,
             "owner": "0xmebius",
             "repo": "mev",
-            "stars": 411
+            "stars": 411,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -999,12 +1558,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Miner extractable value modeling and tools.",
+            "homepage": null,
             "id": 244715977,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-02T11:55:51Z",
+            "open_issues": 9,
             "owner": "pdaian",
             "repo": "mev",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1015,12 +1579,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 463714021,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-05T04:16:20Z",
+            "open_issues": 0,
             "owner": "peiyuechen",
             "repo": "MEV-weekend-reading-list-",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         }
@@ -1037,12 +1606,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of cryptography resources and links.",
+            "homepage": null,
             "id": 59573221,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-15T08:39:47Z",
+            "open_issues": 72,
             "owner": "sobolevn",
             "repo": "awesome-cryptography",
-            "stars": 7092
+            "stars": 7092,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "crypto",
+              "cryptography",
+              "encryption",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1053,12 +1634,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA",
+            "homepage": "https://cryptobook.nakov.com",
             "id": 154688866,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-06-07T09:01:50Z",
+            "open_issues": 60,
             "owner": "nakov",
             "repo": "Practical-Cryptography-for-Developers-Book",
-            "stars": 3825
+            "stars": 3825,
+            "topics": [
+              "aes",
+              "asymmetric-ciphers",
+              "book",
+              "cryptography",
+              "digital-signature",
+              "ecc",
+              "ecdh",
+              "elliptic-curves",
+              "elliptic-curves-cryptography",
+              "hashes",
+              "hmac",
+              "kdf",
+              "key-agreement",
+              "programming",
+              "public-key-cryptography",
+              "python",
+              "quantum-safe-cryptography",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1069,12 +1674,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Devpill.me - A Public Good Blockchain Development Guide",
+            "homepage": "https://www.devpill.me/",
             "id": 453737831,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-13T17:14:49Z",
+            "open_issues": 4,
             "owner": "dcbuild3r",
             "repo": "blockchain-development-guide",
-            "stars": 1345
+            "stars": 1345,
+            "topics": [
+              "blockchain-development",
+              "decentralized-finance",
+              "ethereum",
+              "full-stack",
+              "mev",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1085,12 +1702,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity",
+            "homepage": null,
             "id": 118369156,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:28:28Z",
+            "open_issues": 2,
             "owner": "pubkey",
             "repo": "eth-crypto",
-            "stars": 921
+            "stars": 921,
+            "topics": [
+              "blockchain",
+              "cipher",
+              "dapp",
+              "encryption",
+              "eth",
+              "ethereum",
+              "ethereum-identity",
+              "privatekey",
+              "publickey",
+              "sign",
+              "sign-data",
+              "signature",
+              "signtransaction",
+              "smart-contracts",
+              "solidity",
+              "transaction",
+              "truffle",
+              "tutorial",
+              "web3",
+              "web3js"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1101,12 +1744,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audited pure JS library containing all Ethereum-related cryptographic primitives",
+            "homepage": "https://npmjs.com/package/ethereum-cryptography",
             "id": 210944178,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-27T10:03:08Z",
+            "open_issues": 0,
             "owner": "ethereum",
             "repo": "js-ethereum-cryptography",
-            "stars": 755
+            "stars": 755,
+            "topics": [
+              "aes",
+              "bip32",
+              "bls12-381",
+              "bn254",
+              "cryptography",
+              "ethereum",
+              "keccak",
+              "prng",
+              "ripemd160",
+              "scrypt",
+              "secp256k1",
+              "sha256",
+              "sha3",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1117,12 +1780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lecture notes for a course on cryptography",
+            "homepage": null,
             "id": 116036636,
             "language": "TeX",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-11T16:01:58Z",
+            "open_issues": 33,
             "owner": "boazbk",
             "repo": "crypto",
-            "stars": 586
+            "stars": 586,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1133,12 +1801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intuitive Advanced Cryptography",
+            "homepage": null,
             "id": 205792736,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-01T04:16:07Z",
+            "open_issues": 1,
             "owner": "cryptosubtlety",
             "repo": "intuitive-advanced-cryptography",
-            "stars": 434
+            "stars": 434,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1149,12 +1822,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list for cryptographic secure computation paper. This repo includes *Lattice*, *DifferentialPrivacy*, *MPC* and also a comprehensive summary for top conferences. ",
+            "homepage": null,
             "id": 175162772,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2024-12-24T06:39:52Z",
+            "open_issues": 0,
             "owner": "Jamie-Cui",
             "repo": "awesome-secure-computation",
-            "stars": 220
+            "stars": 220,
+            "topics": [
+              "awesome-list",
+              "cryptography",
+              "differential-privacy",
+              "fss",
+              "homomorphic-encryption",
+              "lattice",
+              "mpc",
+              "oblivious-transfer",
+              "ot-extension",
+              "paper",
+              "paper-summary",
+              "papers",
+              "pir",
+              "privacy",
+              "privacy-enhancing-technologies",
+              "private-information-retrieval",
+              "private-set-intersection",
+              "psi",
+              "secure-computation",
+              "secure-protocols"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         }
@@ -1171,12 +1870,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
+            "homepage": null,
             "id": 156949882,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-01-23T15:01:47Z",
+            "open_issues": 16,
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5819
+            "stars": 5820,
+            "topics": [
+              "explaining-snarks",
+              "knowledge-proofs",
+              "snark",
+              "team-crypto",
+              "zk-snarks"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1187,12 +1897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome ZK resources, libraries, tools and more.  ",
+            "homepage": null,
             "id": 430532919,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-15T06:58:06Z",
+            "open_issues": 8,
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1582
+            "stars": 1582,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1203,12 +1918,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of ZK/FHE resources and links. 👇 Click below for the website version. ",
+            "homepage": "https://www.ingonyama.com/ingopedia/",
             "id": 486474712,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-05T17:01:44Z",
+            "open_issues": 3,
             "owner": "ingonyama-zk",
             "repo": "ingopedia",
-            "stars": 739
+            "stars": 739,
+            "topics": [
+              "awesome",
+              "cryptography",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1219,12 +1943,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
+            "homepage": null,
             "id": 480656314,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-24T16:04:37Z",
+            "open_issues": 4,
             "owner": "LuozhuZhang",
             "repo": "awesome-zkevm",
-            "stars": 470
+            "stars": 470,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "evm",
+              "layer2",
+              "native-zkevm",
+              "scaling",
+              "smart-contract",
+              "solidity",
+              "zero-knowledge-proofs",
+              "zk-rollup",
+              "zkevm"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1235,12 +1976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "knowledge base of ZKP including applications, hardware, technical discussions and more. ",
+            "homepage": null,
             "id": 508835416,
             "language": "SCSS",
+            "license": "CC0-1.0",
             "last_commit": "2023-01-04T22:44:23Z",
+            "open_issues": 2,
             "owner": "delendum-xyz",
             "repo": "zk-knowledge",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1251,12 +1997,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validity rollup resources",
+            "homepage": "https://bitcoinrollups.org",
             "id": 489492125,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-08-13T17:55:15Z",
+            "open_issues": 4,
             "owner": "john-light",
             "repo": "validity-rollups",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "bitcoin",
+              "validity-rollup",
+              "zk-rollup"
+            ]
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1267,12 +2022,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My journey learning zero knowledge proof technologies in public! Feedback, help and contributions very much welcome",
+            "homepage": null,
             "id": 418090174,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2021-11-13T11:43:46Z",
+            "open_issues": 1,
             "owner": "JofArnold",
             "repo": "zkp-learning-in-public",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         },
@@ -1283,12 +2043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My journey learning zero knowledge proof technologies in public! Feedback, help and contributions very much welcome",
+            "homepage": null,
             "id": 418090174,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2021-11-13T11:43:46Z",
+            "open_issues": 1,
             "owner": "JofArnold",
             "repo": "zkp-learning-in-public",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:36:52.777Z"
         }
@@ -1307,12 +2072,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go implementation of the Ethereum protocol",
+                "homepage": "https://geth.ethereum.org",
                 "id": 15452919,
                 "language": "Go",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-28T15:12:14Z",
+                "open_issues": 423,
                 "owner": "ethereum",
                 "repo": "go-ethereum",
-                "stars": 51313
+                "stars": 51314,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "geth",
+                  "go",
+                  "p2p"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1323,12 +2099,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ethereum implementation on the efficiency frontier ",
+                "homepage": "https://docs.erigon.tech",
                 "id": 188836864,
                 "language": "Go",
-                "last_commit": "2026-08-28T23:29:47Z",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-08-29T04:44:17Z",
+                "open_issues": 676,
                 "owner": "erigontech",
                 "repo": "erigon",
-                "stars": 3580
+                "stars": 3580,
+                "topics": [
+                  "blockchain",
+                  "ethereum"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1339,12 +2123,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://github.com/besu-eth/besu/wiki",
+                "homepage": "https://www.lfdecentralizedtrust.org/projects/besu",
                 "id": 206414745,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:16:44Z",
+                "open_issues": 177,
                 "owner": "besu-eth",
                 "repo": "besu",
-                "stars": 1830
+                "stars": 1830,
+                "topics": [
+                  "besu",
+                  "blockchain",
+                  "ethereum",
+                  "java",
+                  "p2p"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1355,12 +2150,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "(deprecated) The fast, light, and robust client for the Ethereum mainnet. ",
+                "homepage": null,
                 "id": 283873079,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2022-05-23T19:01:30Z",
+                "open_issues": 155,
                 "owner": "openethereum",
                 "repo": "openethereum",
-                "stars": 1625
+                "stars": 1625,
+                "topics": [
+                  "ethereum"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1371,12 +2173,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A robust, high-performance execution client for Ethereum node operators.",
+                "homepage": "https://nethermind.io/nethermind-client",
                 "id": 101194285,
                 "language": "C#",
-                "last_commit": "2026-08-28T23:07:02Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T02:12:24Z",
+                "open_issues": 353,
                 "owner": "NethermindEth",
                 "repo": "nethermind",
-                "stars": 1588
+                "stars": 1588,
+                "topics": [
+                  "blockchain",
+                  "eth",
+                  "ethereum",
+                  "ethereum-client",
+                  "evm"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1387,12 +2200,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go implementation of Ethereum proof of stake",
+                "homepage": "https://www.offchainlabs.com",
                 "id": 117156031,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T21:06:55Z",
+                "open_issues": 595,
                 "owner": "OffchainLabs",
                 "repo": "prysm",
-                "stars": 3776
+                "stars": 3776,
+                "topics": [
+                  "ethereum"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1403,12 +2223,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ethereum consensus client in Rust",
+                "homepage": "https://lighthouse-book.sigmaprime.io/",
                 "id": 139952333,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:23:39Z",
+                "open_issues": 522,
                 "owner": "sigp",
                 "repo": "lighthouse",
-                "stars": 3466
+                "stars": 3466,
+                "topics": [
+                  "eth2",
+                  "ethereum",
+                  "proof-of-stake"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1419,12 +2248,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌟 Ethereum Consensus client for the Zig and TypeScript ecosystem",
+                "homepage": "https://lodestar.chainsafe.io",
                 "id": 138313497,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:49:03Z",
+                "open_issues": 356,
                 "owner": "ChainSafe",
                 "repo": "lodestar",
-                "stars": 1419
+                "stars": 1419,
+                "topics": [
+                  "beacon-chain",
+                  "blockchain",
+                  "eth2",
+                  "ethereum",
+                  "proof-of-stake",
+                  "serenity",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1435,12 +2277,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Open-source Ethereum consensus client written in Java",
+                "homepage": "https://consensys.io/teku",
                 "id": 147802356,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:12:24Z",
+                "open_issues": 217,
                 "owner": "Consensys",
                 "repo": "teku",
-                "stars": 776
+                "stars": 776,
+                "topics": [
+                  "beacon-chain",
+                  "consensys",
+                  "eth2",
+                  "eth2-clients",
+                  "ethereum",
+                  "java",
+                  "proof-of-stake",
+                  "teku"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1451,12 +2307,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nimbus: an Ethereum Execution Client for Resource-Restricted Devices",
+                "homepage": "https://status-im.github.io/nimbus-eth1/",
                 "id": 116221698,
                 "language": "Nim",
-                "last_commit": "2026-08-28T20:41:13Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:33:31Z",
+                "open_issues": 108,
                 "owner": "status-im",
                 "repo": "nimbus-eth1",
-                "stars": 628
+                "stars": 628,
+                "topics": [
+                  "android",
+                  "blockchain",
+                  "ethereum",
+                  "hacktoberfest",
+                  "ios",
+                  "mobile",
+                  "nim",
+                  "nim-lang",
+                  "nim-language",
+                  "nimbus",
+                  "portal-network",
+                  "raspberry-pi"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             }
@@ -1474,12 +2348,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome list of all things oracle manipulation. Creating to help spread a better understanding of oracles and oracle manipulation.",
+                "homepage": null,
                 "id": 520661276,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-29T06:15:00Z",
+                "open_issues": 1,
                 "owner": "0xcacti",
                 "repo": "awesome-oracle-manipulation",
-                "stars": 528
+                "stars": 528,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "oracle-manipulation",
+                  "security",
+                  "solidity",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             }
@@ -1497,12 +2383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contracts, links and other stuff that makes Governance Awesome",
+                "homepage": null,
                 "id": 376935174,
                 "language": "Solidity",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-04T23:06:38Z",
+                "open_issues": 3,
                 "owner": "Ro5s",
                 "repo": "Awesome-Governance",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             }
@@ -1520,12 +2411,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of practical security-focused guides and checklists for smart contract development",
+                "homepage": null,
                 "id": 479526508,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-11-15T16:33:31Z",
+                "open_issues": 1,
                 "owner": "nascentxyz",
                 "repo": "simple-security-toolkit",
-                "stars": 1233
+                "stars": 1233,
+                "topics": [
+                  "crypto",
+                  "security",
+                  "security-tools",
+                  "smart-contracts",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1536,12 +2438,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A checklist of things to look for when auditing Solidity smart contracts. ",
+                "homepage": null,
                 "id": 503004543,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-10-02T03:01:08Z",
+                "open_issues": 2,
                 "owner": "tamjid0x01",
                 "repo": "SmartContracts-audit-checklist",
-                "stars": 798
+                "stars": 798,
+                "topics": [
+                  "audit",
+                  "awesome",
+                  "awesome-list",
+                  "ethereum",
+                  "hacktoberfest",
+                  "hacktoberfest-accepted",
+                  "security",
+                  "smart-contracts",
+                  "solidity",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1552,12 +2470,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Solidity smart contract auditing checklist",
+                "homepage": null,
                 "id": 137932038,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-03-06T15:58:19Z",
+                "open_issues": 1,
                 "owner": "cryptofinlabs",
                 "repo": "audit-checklist",
-                "stars": 368
+                "stars": 368,
+                "topics": [
+                  "ethereum",
+                  "security",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             }
@@ -1575,12 +2502,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ethereum EVM illustrated ",
+                "homepage": null,
                 "id": 117318374,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-06-21T18:53:47Z",
+                "open_issues": 1,
                 "owner": "takenobu-hs",
                 "repo": "ethereum-evm-illustrated",
-                "stars": 285
+                "stars": 285,
+                "topics": [
+                  "ethereum",
+                  "ethereum-virtual-machine",
+                  "evm"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1591,12 +2527,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of Ethereum infographics - L1, L2, Oracles, DeFi",
+                "homepage": null,
                 "id": 454945333,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-11-17T12:48:15Z",
+                "open_issues": 2,
                 "owner": "dgeorgiev06",
                 "repo": "awesome-ethereum-diagrams",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "blockchain",
+                  "cryptocurrency",
+                  "defi",
+                  "ethereum"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1607,12 +2553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 67693817,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-06-09T10:16:38Z",
+                "open_issues": 0,
                 "owner": "4c656554",
                 "repo": "BlockchainIllustrations",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             }
@@ -1630,12 +2581,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A guide to available tools and platforms for developing on Ethereum.",
+                "homepage": null,
                 "id": 136638948,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-09T17:40:55Z",
+                "open_issues": 37,
                 "owner": "Consensys",
                 "repo": "ethereum-developer-tools-list",
-                "stars": 5402
+                "stars": 5402,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1646,12 +2602,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Devpill.me - A Public Good Blockchain Development Guide",
+                "homepage": "https://www.devpill.me/",
                 "id": 453737831,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-13T17:14:49Z",
+                "open_issues": 4,
                 "owner": "dcbuild3r",
                 "repo": "blockchain-development-guide",
-                "stars": 1345
+                "stars": 1345,
+                "topics": [
+                  "blockchain-development",
+                  "decentralized-finance",
+                  "ethereum",
+                  "full-stack",
+                  "mev",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1662,12 +2630,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Web3 resources, libraries, tools and more.",
+                "homepage": "https://awesome-web3.com",
                 "id": 448622257,
                 "language": "JavaScript",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-25T11:28:26Z",
+                "open_issues": 26,
                 "owner": "ahmet",
                 "repo": "awesome-web3",
-                "stars": 888
+                "stars": 888,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "blockchain",
+                  "ethereum",
+                  "smart-contracts",
+                  "solidity",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1678,12 +2659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of crypto project trackers and analytics dashboards.",
+                "homepage": null,
                 "id": 162764963,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-25T21:16:57Z",
+                "open_issues": 18,
                 "owner": "denisnazarov",
                 "repo": "awesome-crypto-trackers",
-                "stars": 485
+                "stars": 485,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1694,12 +2680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 462065267,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-09-23T14:01:06Z",
+                "open_issues": 2,
                 "owner": "b-chiang",
                 "repo": "protocol-reading-list",
-                "stars": 457
+                "stars": 457,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1710,12 +2701,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of AMMs, Orderbooks, and everything in between",
+                "homepage": "https://0xperp.github.io/awesome-amm/",
                 "id": 519926484,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-06T18:48:04Z",
+                "open_issues": 1,
                 "owner": "0xperp",
                 "repo": "awesome-amm",
-                "stars": 338
+                "stars": 338,
+                "topics": [
+                  "amm",
+                  "awesome-list"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             },
@@ -1726,12 +2725,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Selection of Web3 tools & resources (will be updated regularly) 🥷🏼",
+                "homepage": null,
                 "id": 528157382,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-28T22:00:18Z",
+                "open_issues": 5,
                 "owner": "vikvikvikkk",
                 "repo": "Web3",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "defi",
+                  "nfts",
+                  "resources",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T23:36:52.777Z"
             }
@@ -1745,15 +2754,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:36:52.777Z",
+    "last_updated": "2026-08-29T04:46:52.897Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated Collection of Ethereum Ecosystem Resources",
+      "homepage": null,
       "id": 499590305,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-12-26T18:22:57Z",
+      "open_issues": 2,
       "owner": "arpitingle",
       "repo": "Library-of-Ethereum",
-      "stars": 277
+      "stars": 277,
+      "topics": [
+        "awesome-list",
+        "blockchain",
+        "cairo",
+        "cryptography",
+        "defi",
+        "ethereum",
+        "evm",
+        "layer2",
+        "mev",
+        "security",
+        "smart-contracts",
+        "solidity",
+        "vyper",
+        "zkp"
+      ]
     },
     "original_repository_sha": "fe29a93e0ae0316a22c36e596fd38eb4eb98b9d6",
     "enhanced_repository": "enhansome/enhansome-Library-of-Ethereum",

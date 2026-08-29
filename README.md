@@ -64,7 +64,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## DeFi
 
-* [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,820 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16 - Curated DeFi Developer Road map
+* [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,821 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16 - Curated DeFi Developer Road map
 * [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,212 | 🐛 1 | 📅 2026-03-14 - DeFi Research Tools
 * [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance) ⭐ 1,659 | 🐛 79 | 📅 2026-01-14 - A curated list of awesome decentralized finance projects, software, and resources.
 * [Money Legos](https://github.com/studydefi/money-legos) ⭐ 1,025 | 🐛 42 | 🌐 Solidity | 📅 2024-12-09 - One stop shop for Ethereum ABIs, addresses, and Solidity interfaces
@@ -79,7 +79,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## Security
 
-* [DeFi Labs Hacks](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,760 | 🐛 3 | 🌐 Solidity | 📅 2026-08-28 - Reproduce DeFi hack incidents using Foundry.
+* [DeFi Labs Hacks](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,760 | 🐛 2 | 🌐 Solidity | 📅 2026-08-29 - Reproduce DeFi hack incidents using Foundry.
 * [Awesome web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) ⭐ 1,621 | 🐛 13 | 📅 2026-03-01 - A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
 * [Solidity Security Blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,522 | 🐛 4 | 📅 2022-09-23
 * [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) ⭐ 1,486 | 🐛 39 | 📅 2024-08-20 - A curated list of awesome Ethereum security references, guidance, tools, and more.
@@ -145,7 +145,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## ZKPs
 
-* [Awesome ZKPs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,819 | 🐛 16 | 📅 2026-01-23 - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP)
+* [Awesome ZKPs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,820 | 🐛 16 | 📅 2026-01-23 - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP)
 * [Awesome ZK](https://github.com/ventali/awesome-zk) ⭐ 1,582 | 🐛 8 | 📅 2024-10-15 - A curated list of awesome ZK resources, libraries, tools and more
 * [Ingopedia](https://github.com/ingonyama-zk/ingopedia) ⭐ 739 | 🐛 3 | 📅 2026-03-05 - A curated list of ZK resources and links.
 * [Awesome zkEVM](https://github.com/LuozhuZhang/awesome-zkevm) ⭐ 470 | 🐛 4 | 📅 2023-12-24 - A curated list of awesome zkEVM resources, libraries, tools and more
@@ -162,19 +162,19 @@ Curated Collection of Ethereum Ecosystem Resources
 
 Execution Clients
 
-* [Geth](https://github.com/ethereum/go-ethereum) ⭐ 51,313 | 🐛 422 | 🌐 Go | 📅 2026-08-28 - Go
-* [Erigon](https://github.com/ledgerwatch/erigon) ⭐ 3,580 | 🐛 678 | 🌐 Go | 📅 2026-08-28 - Go
+* [Geth](https://github.com/ethereum/go-ethereum) ⭐ 51,314 | 🐛 423 | 🌐 Go | 📅 2026-08-28 - Go
+* [Erigon](https://github.com/ledgerwatch/erigon) ⭐ 3,580 | 🐛 676 | 🌐 Go | 📅 2026-08-29 - Go
 * [Besu](https://github.com/hyperledger/besu) ⭐ 1,830 | 🐛 177 | 🌐 Java | 📅 2026-08-28 - Java
 * [Akula](https://github.com/openethereum/openethereum) ⚠️ Archived - Rust
-* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,588 | 🐛 353 | 🌐 C# | 📅 2026-08-28 - C# , .NET
+* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,588 | 🐛 353 | 🌐 C# | 📅 2026-08-29 - C# , .NET
 
 Consensus Clients
 
 * [Prysm](https://github.com/prysmaticlabs/prysm) ⭐ 3,776 | 🐛 595 | 🌐 Go | 📅 2026-08-28 - Go
-* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,466 | 🐛 523 | 🌐 Rust | 📅 2026-08-28 - Rust
+* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,466 | 🐛 522 | 🌐 Rust | 📅 2026-08-28 - Rust
 * [Lodester](https://github.com/chainsafe/lodestar) ⭐ 1,419 | 🐛 356 | 🌐 TypeScript | 📅 2026-08-28 - TypeScript
 * [Teku](https://github.com/ConsenSys/teku) ⭐ 776 | 🐛 217 | 🌐 Java | 📅 2026-08-28 - Java
-* [Nimbus](https://github.com/status-im/nimbus-eth1) ⭐ 628 | 🐛 108 | 🌐 Nim | 📅 2026-08-28 - Nim
+* [Nimbus](https://github.com/status-im/nimbus-eth1) ⭐ 628 | 🐛 108 | 🌐 Nim | 📅 2026-08-29 - Nim
 
 ### Oracles
 
@@ -233,4 +233,4 @@ Consensus Clients
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
