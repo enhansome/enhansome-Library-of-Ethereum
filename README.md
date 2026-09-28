@@ -32,8 +32,8 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ### Solidity
 
-* [Open Zeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,254 | 🐛 358 | 🌐 Solidity | 📅 2026-09-25 - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
-* [Solidity](https://github.com/ethereum/solidity) ⭐ 25,744 | 🐛 827 | 🌐 C++ | 📅 2026-09-27 - Official solidity repo
+* [Open Zeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,256 | 🐛 355 | 🌐 Solidity | 📅 2026-09-28 - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
+* [Solidity](https://github.com/ethereum/solidity) ⭐ 25,745 | 🐛 824 | 🌐 C++ | 📅 2026-09-28 - Official solidity repo
 * [Awesome Solidity](https://github.com/bkrem/awesome-solidity) ⭐ 7,052 | 🐛 14 | 📅 2026-09-25 - A curated list of awesome Solidity resources, libraries, tools and more.
 * [Not So Smart Contracts](https://github.com/crytic/not-so-smart-contracts) ⚠️ Archived - This repository contains examples of common Ethereum smart contract vulnerabilities, including code from real smart contracts.
 * [Solidity Template](https://github.com/paulrberg/solidity-template) ⭐ 1,970 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-03 - Solidity templates
@@ -48,15 +48,15 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ### Vyper
 
-* [Vyper](https://github.com/vyperlang/vyper) ⭐ 5,184 | 🐛 625 | 🌐 Python | 📅 2026-09-26 - Official Vyper Repo
-* [Snekmate](https://github.com/pcaversaccio/snekmate) ⭐ 602 | 🐛 14 | 🌐 Solidity | 📅 2026-09-26 - State-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks.
+* [Vyper](https://github.com/vyperlang/vyper) ⭐ 5,184 | 🐛 627 | 🌐 Python | 📅 2026-09-26 - Official Vyper Repo
+* [Snekmate](https://github.com/pcaversaccio/snekmate) ⭐ 602 | 🐛 14 | 🌐 Solidity | 📅 2026-09-28 - State-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks.
 * [Vyper Dev](https://github.com/zcor/vyper-dev) ⭐ 34 | 🐛 0 | 📅 2022-06-05 - Vyper resources
 * [Vyper Docs](https://vyper.readthedocs.io/en/stable/) - Official Vyper Docs
 
 ### Cairo
 
 * [Cairo](https://github.com/starkware-libs/cairo-lang) ⭐ 1,368 | 🐛 143 | 🌐 Python | 📅 2026-07-28 - Officila Cairo Repo
-* [Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts) ⭐ 909 | 🐛 33 | 🌐 Rust | 📅 2026-09-21 - A library for secure smart contract development written in Cairo for StarkNet
+* [Cairo Contracts](https://github.com/OpenZeppelin/cairo-contracts) ⭐ 909 | 🐛 33 | 🌐 Rust | 📅 2026-09-28 - A library for secure smart contract development written in Cairo for StarkNet
 * [Cairo Goldmine](https://github.com/beautyisourbusiness/cairo-goldmine) ⭐ 291 | 🐛 2 | 📅 2022-10-12 - A Comprehensive, Annotated List of Repositories of the Starknet Ecosystem.
 * [Cairo 101](https://github.com/l-henri/starknet-cairo-101) ⭐ 26 | 🐛 0 | 🌐 Cairo | 📅 2022-07-14 - Get started with Cairo with this simple tutorial. Complete the puzzles/exercises, get tokens and learn about StarkNet smart contracts!
 * [Cairo Open](https://github.com/CairOpen/cairopen-contracts) ⭐ 23 | 🐛 1 | 🌐 Cairo | 📅 2022-09-15 - A set of libraries to help using Cairo on StarkNet.
@@ -64,7 +64,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## DeFi
 
-* [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,838 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-16 - Curated DeFi Developer Road map
+* [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,842 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-16 - Curated DeFi Developer Road map
 * [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,239 | 🐛 2 | 📅 2026-03-14 - DeFi Research Tools
 * [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance) ⭐ 1,667 | 🐛 82 | 📅 2026-01-14 - A curated list of awesome decentralized finance projects, software, and resources.
 * [Money Legos](https://github.com/studydefi/money-legos) ⭐ 1,028 | 🐛 42 | 🌐 Solidity | 📅 2024-12-09 - One stop shop for Ethereum ABIs, addresses, and Solidity interfaces
@@ -79,12 +79,12 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## Security
 
-* [DeFi Labs Hacks](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,797 | 🐛 5 | 🌐 Solidity | 📅 2026-09-27 - Reproduce DeFi hack incidents using Foundry.
+* [DeFi Labs Hacks](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,799 | 🐛 5 | 🌐 Solidity | 📅 2026-09-28 - Reproduce DeFi hack incidents using Foundry.
 * [Awesome web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) ⭐ 1,623 | 🐛 17 | 📅 2026-03-01 - A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
-* [Solidity Security Blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,524 | 🐛 4 | 📅 2022-09-23
+* [Solidity Security Blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,525 | 🐛 4 | 📅 2022-09-23
 * [Awesome Ethereum Security](https://github.com/crytic/awesome-ethereum-security) ⭐ 1,485 | 🐛 40 | 📅 2024-08-20 - A curated list of awesome Ethereum security references, guidance, tools, and more.
 * [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit) ⭐ 1,236 | 🐛 1 | 📅 2023-11-15 - This repo is a collection of practical security-focused guides and checklists for smart contract development, assembled by the Nascent team to share with our portfolio companies and others in the ecosystem who might find it useful.
-* [Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox) ⭐ 735 | 🐛 3 | 🌐 Dockerfile | 📅 2026-08-24 - This repository contains scripts to create a Docker container preinstalled and preconfigured with all of Trail of Bits’ Ethereum security tools
+* [Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox) ⭐ 734 | 🐛 3 | 🌐 Dockerfile | 📅 2026-08-24 - This repository contains scripts to create a Docker container preinstalled and preconfigured with all of Trail of Bits’ Ethereum security tools
 * [Awesome Cryptocurrency Security](https://github.com/nongiach/awesome-cryptocurrency-security) ⭐ 197 | 🐛 5 | 📅 2020-01-12 - Curated list about cryptocurrency security. (reverse, exploit, fuzz)
 
 ## Rollups
@@ -100,9 +100,9 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## EVM
 
-* [rEVM](https://github.com/bluealloy/revm) ⭐ 2,243 | 🐛 99 | 🌐 Rust | 📅 2026-09-26 - Rust Ethereum Virtual Machine with great name that is focused on speed and simplicity
+* [rEVM](https://github.com/bluealloy/revm) ⭐ 2,243 | 🐛 97 | 🌐 Rust | 📅 2026-09-28 - Rust Ethereum Virtual Machine with great name that is focused on speed and simplicity
 * [SputnikVM](https://github.com/rust-blockchain/evm) ⭐ 1,319 | 🐛 27 | 🌐 Rust | 📅 2026-08-06 - Rust Ethereum Virtual Machine Implementation
-* [EVMONE](https://github.com/ethereum/evmone) ⭐ 976 | 🐛 171 | 🌐 C++ | 📅 2026-09-25 - evmone is a C++ implementation of the Ethereum Virtual Machine (EVM)
+* [EVMONE](https://github.com/ethereum/evmone) ⭐ 976 | 🐛 172 | 🌐 C++ | 📅 2026-09-28 - evmone is a C++ implementation of the Ethereum Virtual Machine (EVM)
 * [EVM Puzzles](https://github.com/fvictorio/evm-puzzles) ⭐ 848 | 🐛 7 | 🌐 JavaScript | 📅 2023-08-04 - A collection of EVM puzzles
 * [EVM Codes](https://github.com/comitylabs/evm.codes) ⭐ 827 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-24 - An interactive reference to Ethereum Virtual Machine Opcodes
 * [EVM Opcodes](https://github.com/wolflo/evm-opcodes) ⭐ 820 | 🐛 8 | 📅 2024-08-12 - This is intended to be an accessible reference, but it is informal and does not address opcode semantics
@@ -122,7 +122,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 * [Flash Boys 2.0](https://github.com/flashbots/pm) ⭐ 2,592 | 🐛 19 | 📅 2024-12-30
 * [Awesome MEV Resources](https://github.com/0xalpharush/awesome-MEV-resources) ⭐ 1,157 | 🐛 3 | 📅 2023-12-21 - Curated MEV resources
-* [MEV Research](https://github.com/flashbots/mev-research) ⭐ 1,001 | 🐛 0 | 🌐 Python | 📅 2026-09-17 - Flashbots Research
+* [MEV Research](https://github.com/flashbots/mev-research) ⭐ 1,002 | 🐛 0 | 🌐 Python | 📅 2026-09-17 - Flashbots Research
 * [MEV Geth](https://github.com/flashbots/mev-geth) ⭐ 805 | 🐛 28 | 🌐 Go | 📅 2024-08-21 - This is a fork of go-ethereum
 * [Awesome MEV](https://github.com/0xemperor/Awesome-MEV) ⭐ 635 | 🐛 2 | 📅 2023-09-02 - A list of MEV resources with a focus on past research papers/talks.
 * [MEV Inspect](https://github.com/flashbots/mev-inspect-rs) ⚠️ Archived - Ethereum MEV Inspector in Rust
@@ -134,7 +134,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## Cryptography
 
-* [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) ⭐ 7,128 | 🐛 75 | 📅 2026-07-15 - A curated list of cryptography resources and links
+* [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) ⭐ 7,130 | 🐛 75 | 📅 2026-07-15 - A curated list of cryptography resources and links
 * [Practical Cryptography for Developers](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) ⭐ 3,829 | 🐛 60 | 🌐 CSS | 📅 2024-06-07 - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 * [Cryptography](https://github.com/dcbuild3r/blockchain-development-guide#cryptography) ⭐ 1,344 | 🐛 4 | 📅 2023-08-13 - Guide to cryptography
 * [ETH Crypto](https://github.com/pubkey/eth-crypto) ⭐ 922 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-19 - Cryptographic javascript-functions for ethereum and tutorials on how to use them together with web3js and solidity
@@ -145,8 +145,8 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## ZKPs
 
-* [Awesome ZKPs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,842 | 🐛 16 | 📅 2026-01-23 - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP)
-* [Awesome ZK](https://github.com/ventali/awesome-zk) ⭐ 1,582 | 🐛 9 | 📅 2024-10-15 - A curated list of awesome ZK resources, libraries, tools and more
+* [Awesome ZKPs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,841 | 🐛 17 | 📅 2026-01-23 - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP)
+* [Awesome ZK](https://github.com/ventali/awesome-zk) ⭐ 1,583 | 🐛 9 | 📅 2024-10-15 - A curated list of awesome ZK resources, libraries, tools and more
 * [Ingopedia](https://github.com/ingonyama-zk/ingopedia) ⭐ 738 | 🐛 3 | 📅 2026-03-05 - A curated list of ZK resources and links.
 * [Awesome zkEVM](https://github.com/LuozhuZhang/awesome-zkevm) ⭐ 468 | 🐛 0 | 📅 2026-09-23 - A curated list of awesome zkEVM resources, libraries, tools and more
 * [ZK Knowledge](https://github.com/delendum-xyz/zk-knowledge) ⭐ 132 | 🐛 2 | 🌐 SCSS | 📅 2023-01-04 - Knowledge base of ZKP including applications, hardware, technical discussions and more.
@@ -162,19 +162,19 @@ Curated Collection of Ethereum Ecosystem Resources
 
 Execution Clients
 
-* [Geth](https://github.com/ethereum/go-ethereum) ⭐ 51,371 | 🐛 463 | 🌐 Go | 📅 2026-09-25 - Go
-* [Erigon](https://github.com/ledgerwatch/erigon) ⭐ 3,583 | 🐛 695 | 🌐 Go | 📅 2026-09-27 - Go
-* [Besu](https://github.com/hyperledger/besu) ⭐ 1,842 | 🐛 193 | 🌐 Java | 📅 2026-09-26 - Java
+* [Geth](https://github.com/ethereum/go-ethereum) ⭐ 51,373 | 🐛 467 | 🌐 Go | 📅 2026-09-28 - Go
+* [Erigon](https://github.com/ledgerwatch/erigon) ⭐ 3,584 | 🐛 696 | 🌐 Go | 📅 2026-09-28 - Go
+* [Besu](https://github.com/hyperledger/besu) ⭐ 1,842 | 🐛 194 | 🌐 Java | 📅 2026-09-28 - Java
 * [Akula](https://github.com/openethereum/openethereum) ⚠️ Archived - Rust
-* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,606 | 🐛 385 | 🌐 C# | 📅 2026-09-27 - C# , .NET
+* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,607 | 🐛 357 | 🌐 C# | 📅 2026-09-28 - C# , .NET
 
 Consensus Clients
 
-* [Prysm](https://github.com/prysmaticlabs/prysm) ⭐ 3,786 | 🐛 608 | 🌐 Go | 📅 2026-09-26 - Go
-* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,476 | 🐛 566 | 🌐 Rust | 📅 2026-09-25 - Rust
-* [Lodester](https://github.com/chainsafe/lodestar) ⭐ 1,422 | 🐛 396 | 🌐 TypeScript | 📅 2026-09-27 - TypeScript
-* [Teku](https://github.com/ConsenSys/teku) ⭐ 781 | 🐛 221 | 🌐 Java | 📅 2026-09-26 - Java
-* [Nimbus](https://github.com/status-im/nimbus-eth1) ⭐ 631 | 🐛 118 | 🌐 Nim | 📅 2026-09-27 - Nim
+* [Prysm](https://github.com/prysmaticlabs/prysm) ⭐ 3,786 | 🐛 609 | 🌐 Go | 📅 2026-09-28 - Go
+* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,476 | 🐛 559 | 🌐 Rust | 📅 2026-09-28 - Rust
+* [Lodester](https://github.com/chainsafe/lodestar) ⭐ 1,422 | 🐛 400 | 🌐 TypeScript | 📅 2026-09-28 - TypeScript
+* [Teku](https://github.com/ConsenSys/teku) ⭐ 781 | 🐛 222 | 🌐 Java | 📅 2026-09-28 - Java
+* [Nimbus](https://github.com/status-im/nimbus-eth1) ⭐ 631 | 🐛 120 | 🌐 Nim | 📅 2026-09-28 - Nim
 
 ### Oracles
 
@@ -203,8 +203,8 @@ Consensus Clients
 ### Audit Checklists
 
 * [Audit Readiness Checklist](https://github.com/nascentxyz/simple-security-toolkit/blob/main/audit-readiness-checklist.md) ⭐ 1,236 | 🐛 1 | 📅 2023-11-15 - Bare minimum quality checklist
-* [Smart Contracts Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) ⭐ 799 | 🐛 3 | 📅 2023-10-02 - A checklist of things to look for when auditing Solidity smart contracts.
-* [Audit Checklist](https://github.com/cryptofinlabs/audit-checklist) ⭐ 367 | 🐛 1 | 📅 2023-03-06 - A Solidity smart contract auditing checklist
+* [Smart Contracts Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) ⭐ 800 | 🐛 3 | 📅 2023-10-02 - A checklist of things to look for when auditing Solidity smart contracts.
+* [Audit Checklist](https://github.com/cryptofinlabs/audit-checklist) ⭐ 368 | 🐛 1 | 📅 2023-03-06 - A Solidity smart contract auditing checklist
 
 ### YouTube Channels
 
@@ -223,8 +223,8 @@ Consensus Clients
 
 * [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list) ⚠️ Archived - A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
 * [Devpill.me](https://github.com/dcbuild3r/blockchain-development-guide) ⭐ 1,344 | 🐛 4 | 📅 2023-08-13 - A Public Good Blockchain Development Guide
-* [Awesome web3](https://github.com/ahmet/awesome-web3) ⭐ 895 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-24 - A curated list of awesome Web3 resources, libraries, tools and more.
-* [Awesome Crypto Trackers](https://github.com/denisnazarov/awesome-crypto-trackers) ⭐ 486 | 🐛 22 | 📅 2025-03-25 - A curated list of crypto project trackers and analytics dashboards.
+* [Awesome web3](https://github.com/ahmet/awesome-web3) ⭐ 895 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-28 - A curated list of awesome Web3 resources, libraries, tools and more.
+* [Awesome Crypto Trackers](https://github.com/denisnazarov/awesome-crypto-trackers) ⭐ 485 | 🐛 22 | 📅 2025-03-25 - A curated list of crypto project trackers and analytics dashboards.
 * [Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list) ⭐ 457 | 🐛 2 | 📅 2022-09-23 - This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.
 * [Awesome AMMs](https://github.com/0xperp/awesome-amm) ⭐ 338 | 🐛 2 | 📅 2024-08-06 - Collection of AMMs, Orderbooks, and everything in between.
 * [Web3 Resources](https://github.com/vikvikvikkk/Web3) ⭐ 121 | 🐛 5 | 📅 2024-03-28 - Selection of Web3 tools & resources
@@ -233,4 +233,4 @@ Consensus Clients
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
