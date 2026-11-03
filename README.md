@@ -32,9 +32,9 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ### Solidity
 
-* [Open Zeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,342 | 🐛 332 | 🌐 Solidity | 📅 2026-11-02 - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
-* [Solidity](https://github.com/ethereum/solidity) ⭐ 25,768 | 🐛 850 | 🌐 C++ | 📅 2026-11-02 - Official solidity repo
-* [Awesome Solidity](https://github.com/bkrem/awesome-solidity) ⭐ 7,069 | 🐛 22 | 📅 2026-09-25 - A curated list of awesome Solidity resources, libraries, tools and more.
+* [Open Zeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,340 | 🐛 332 | 🌐 Solidity | 📅 2026-11-02 - A library for secure smart contract development. Build on a solid foundation of community-vetted code.
+* [Solidity](https://github.com/ethereum/solidity) ⭐ 25,767 | 🐛 853 | 🌐 C++ | 📅 2026-11-03 - Official solidity repo
+* [Awesome Solidity](https://github.com/bkrem/awesome-solidity) ⭐ 7,069 | 🐛 23 | 📅 2026-09-25 - A curated list of awesome Solidity resources, libraries, tools and more.
 * [Not So Smart Contracts](https://github.com/crytic/not-so-smart-contracts) ⚠️ Archived - This repository contains examples of common Ethereum smart contract vulnerabilities, including code from real smart contracts.
 * [Solidity Template](https://github.com/paulrberg/solidity-template) ⭐ 1,969 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-30 - Solidity templates
 * [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) ⭐ 1,594 | 🐛 7 | 🌐 Python | 📅 2026-07-29 - A home for ethereum smart contracts verified on Etherscan
@@ -48,7 +48,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ### Vyper
 
-* [Vyper](https://github.com/vyperlang/vyper) ⭐ 5,182 | 🐛 628 | 🌐 Python | 📅 2026-11-02 - Official Vyper Repo
+* [Vyper](https://github.com/vyperlang/vyper) ⭐ 5,182 | 🐛 626 | 🌐 Python | 📅 2026-11-03 - Official Vyper Repo
 * [Snekmate](https://github.com/pcaversaccio/snekmate) ⭐ 604 | 🐛 15 | 🌐 Solidity | 📅 2026-11-01 - State-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks.
 * [Vyper Dev](https://github.com/zcor/vyper-dev) ⭐ 34 | 🐛 0 | 📅 2022-06-05 - Vyper resources
 * [Vyper Docs](https://vyper.readthedocs.io/en/stable/) - Official Vyper Docs
@@ -64,11 +64,11 @@ Curated Collection of Ethereum Ecosystem Resources
 
 ## DeFi
 
-* [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,886 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-20 - Curated DeFi Developer Road map
-* [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,244 | 🐛 2 | 📅 2026-03-14 - DeFi Research Tools
+* [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,888 | 🐛 11 | 🌐 Python | 📅 2026-11-03 - Curated DeFi Developer Road map
+* [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,245 | 🐛 2 | 📅 2026-03-14 - DeFi Research Tools
 * [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance) ⭐ 1,674 | 🐛 86 | 📅 2026-01-14 - A curated list of awesome decentralized finance projects, software, and resources.
-* [Money Legos](https://github.com/studydefi/money-legos) ⭐ 1,029 | 🐛 42 | 🌐 Solidity | 📅 2024-12-09 - One stop shop for Ethereum ABIs, addresses, and Solidity interfaces
-* [DeFi Open Source Tools](https://github.com/gauss314/defi) ⭐ 611 | 🐛 15 | 🌐 Python | 📅 2024-03-02 - Tools for use in DeFi. Impermanent Loss calculations, staking and farming strategies, coingecko and pancakeswap API queries, liquidity pools and more
+* [Money Legos](https://github.com/studydefi/money-legos) ⭐ 1,030 | 🐛 42 | 🌐 Solidity | 📅 2024-12-09 - One stop shop for Ethereum ABIs, addresses, and Solidity interfaces
+* [DeFi Open Source Tools](https://github.com/gauss314/defi) ⭐ 612 | 🐛 15 | 🌐 Python | 📅 2024-03-02 - Tools for use in DeFi. Impermanent Loss calculations, staking and farming strategies, coingecko and pancakeswap API queries, liquidity pools and more
 * [DeFi Risk Tools & Resources](https://github.com/defi-defense-dao/defi-risk-tools-list) ⭐ 172 | 🐛 6 | 📅 2022-05-19 - It is a list of the available tools, projects, and protocols for analyzing and managing risk within DeFi.
 * [Awesome Ethereum Finance](https://github.com/manifoldfinance/awesome-ethereum-finance) ⭐ 106 | 🐛 2 | 📅 2022-04-25 - Ethereum Awesome list focused on Finance, Cutting Edge and Novel Works
 * [DeFi Papers](https://github.com/irnb/DeFiPapers) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-07-08 - Collection of papers related to DeFi
@@ -102,7 +102,7 @@ Curated Collection of Ethereum Ecosystem Resources
 
 * [rEVM](https://github.com/bluealloy/revm) ⭐ 2,255 | 🐛 126 | 🌐 Rust | 📅 2026-10-28 - Rust Ethereum Virtual Machine with great name that is focused on speed and simplicity
 * [SputnikVM](https://github.com/rust-blockchain/evm) ⭐ 1,321 | 🐛 27 | 🌐 Rust | 📅 2026-08-06 - Rust Ethereum Virtual Machine Implementation
-* [EVMONE](https://github.com/ethereum/evmone) ⭐ 981 | 🐛 186 | 🌐 C++ | 📅 2026-11-02 - evmone is a C++ implementation of the Ethereum Virtual Machine (EVM)
+* [EVMONE](https://github.com/ethereum/evmone) ⭐ 981 | 🐛 182 | 🌐 C++ | 📅 2026-11-03 - evmone is a C++ implementation of the Ethereum Virtual Machine (EVM)
 * [EVM Puzzles](https://github.com/fvictorio/evm-puzzles) ⭐ 847 | 🐛 7 | 🌐 JavaScript | 📅 2023-08-04 - A collection of EVM puzzles
 * [EVM Codes](https://github.com/comitylabs/evm.codes) ⭐ 829 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-24 - An interactive reference to Ethereum Virtual Machine Opcodes
 * [EVM Opcodes](https://github.com/wolflo/evm-opcodes) ⭐ 821 | 🐛 8 | 📅 2024-08-12 - This is intended to be an accessible reference, but it is informal and does not address opcode semantics
@@ -112,7 +112,7 @@ Curated Collection of Ethereum Ecosystem Resources
 * [Enclave EVM](https://github.com/microsoft/eEVM) ⚠️ Archived - Enclave EVM (eEVM) is an open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine
 * [EVM Toolkit](https://github.com/quilt/etk) ⭐ 357 | 🐛 40 | 🌐 Rust | 📅 2024-06-21 - ETK is a collection of tools for writing, reading, and analyzing EVM bytecode.
 * [EVM Book](https://github.com/0xKitsune/EVM-Book) ⭐ 336 | 🐛 0 | 📅 2023-02-02 - A collection of EVM related information
-* [Go EVMLab](https://github.com/holiman/goevmlab) ⭐ 314 | 🐛 8 | 🌐 Go | 📅 2026-10-04 - This project is inspired by EVMlab, which was written in Python
+* [Go EVMLab](https://github.com/holiman/goevmlab) ⭐ 315 | 🐛 8 | 🌐 Go | 📅 2026-10-04 - This project is inspired by EVMlab, which was written in Python
 * [SolVM](https://github.com/brockelmore/solvm) ⭐ 226 | 🐛 0 | 🌐 Solidity | 📅 2023-04-19 - A (slightly) stripped down version of the EVM implemented on top of the EVM using yul and solidity.
 * [EVModin](https://github.com/vorot93/evmodin) ⭐ 158 | 🐛 1 | 🌐 Rust | 📅 2022-02-17 - Fast EVM implementation with support for resumability. Port of evmone to Rust.
 * [EVM Draw Contract](https://github.com/DanielVF/evm-contract-draw) ⭐ 120 | 🐛 0 | 🌐 Nim | 📅 2022-04-05 - This draws each byte of bycode in an EVM contract, allowing you to get a quick overview of the shape of a smart contract
@@ -121,23 +121,23 @@ Curated Collection of Ethereum Ecosystem Resources
 ## MEV
 
 * [Flash Boys 2.0](https://github.com/flashbots/pm) ⭐ 2,596 | 🐛 19 | 📅 2024-12-30
-* [Awesome MEV Resources](https://github.com/0xalpharush/awesome-MEV-resources) ⭐ 1,155 | 🐛 3 | 📅 2023-12-21 - Curated MEV resources
-* [MEV Research](https://github.com/flashbots/mev-research) ⭐ 1,004 | 🐛 4 | 🌐 Python | 📅 2026-10-12 - Flashbots Research
+* [Awesome MEV Resources](https://github.com/0xalpharush/awesome-MEV-resources) ⭐ 1,154 | 🐛 3 | 📅 2023-12-21 - Curated MEV resources
+* [MEV Research](https://github.com/flashbots/mev-research) ⭐ 1,003 | 🐛 4 | 🌐 Python | 📅 2026-10-12 - Flashbots Research
 * [MEV Geth](https://github.com/flashbots/mev-geth) ⭐ 803 | 🐛 28 | 🌐 Go | 📅 2024-08-21 - This is a fork of go-ethereum
 * [Awesome MEV](https://github.com/0xemperor/Awesome-MEV) ⭐ 635 | 🐛 2 | 📅 2023-09-02 - A list of MEV resources with a focus on past research papers/talks.
 * [MEV Inspect](https://github.com/flashbots/mev-inspect-rs) ⚠️ Archived - Ethereum MEV Inspector in Rust
 * [MEV](https://github.com/Dogetoshi/MEV) ⭐ 433 | 🐛 0 | 📅 2021-10-12 - MEV resources
-* [MEV](https://github.com/0xmebius/mev) ⭐ 412 | 🐛 1 | 📅 2022-04-07 -  MEV Book
+* [MEV](https://github.com/0xmebius/mev) ⭐ 411 | 🐛 1 | 📅 2022-04-07 -  MEV Book
 * [MEV](https://github.com/pdaian/mev) ⭐ 125 | 🐛 9 | 🌐 Python | 📅 2022-04-02 - Miner extractable value modeling and tools.
 * [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-) ⭐ 16 | 🐛 0 | 📅 2022-03-05 - Reading list for MEV
 * [MEV Darkforest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
 
 ## Cryptography
 
-* [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) ⭐ 7,192 | 🐛 83 | 📅 2026-07-15 - A curated list of cryptography resources and links
+* [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) ⭐ 7,193 | 🐛 82 | 📅 2026-07-15 - A curated list of cryptography resources and links
 * [Practical Cryptography for Developers](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) ⭐ 3,841 | 🐛 60 | 🌐 CSS | 📅 2024-06-07 - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA
 * [Cryptography](https://github.com/dcbuild3r/blockchain-development-guide#cryptography) ⭐ 1,344 | 🐛 4 | 📅 2023-08-13 - Guide to cryptography
-* [ETH Crypto](https://github.com/pubkey/eth-crypto) ⭐ 923 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-02 - Cryptographic javascript-functions for ethereum and tutorials on how to use them together with web3js and solidity
+* [ETH Crypto](https://github.com/pubkey/eth-crypto) ⭐ 923 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-03 - Cryptographic javascript-functions for ethereum and tutorials on how to use them together with web3js and solidity
 * [Ethereum Cryptography](https://github.com/ethereum/js-ethereum-cryptography) ⭐ 760 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-27 - Every cryptographic primitive needed to work on Ethereum, for the browser and Node.js
 * [Cryptography](https://github.com/boazbk/crypto) ⭐ 588 | 🐛 32 | 🌐 TeX | 📅 2023-12-11 - An intensive introduction to cryptography
 * [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography) ⭐ 434 | 🐛 1 | 📅 2022-08-01 - Intuitive Advanced Cryptography PDF
@@ -162,19 +162,19 @@ Curated Collection of Ethereum Ecosystem Resources
 
 Execution Clients
 
-* [Geth](https://github.com/ethereum/go-ethereum) ⭐ 51,459 | 🐛 488 | 🌐 Go | 📅 2026-11-02 - Go
-* [Erigon](https://github.com/ledgerwatch/erigon) ⭐ 3,608 | 🐛 790 | 🌐 Go | 📅 2026-11-02 - Go
-* [Besu](https://github.com/hyperledger/besu) ⭐ 1,867 | 🐛 281 | 🌐 Java | 📅 2026-11-02 - Java
-* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,627 | 🐛 205 | 🌐 C# | 📅 2026-11-02 - C# , .NET
+* [Geth](https://github.com/ethereum/go-ethereum) ⭐ 51,458 | 🐛 489 | 🌐 Go | 📅 2026-11-03 - Go
+* [Erigon](https://github.com/ledgerwatch/erigon) ⭐ 3,608 | 🐛 783 | 🌐 Go | 📅 2026-11-03 - Go
+* [Besu](https://github.com/hyperledger/besu) ⭐ 1,866 | 🐛 283 | 🌐 Java | 📅 2026-11-03 - Java
+* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,627 | 🐛 247 | 🌐 C# | 📅 2026-11-03 - C# , .NET
 * [Akula](https://github.com/openethereum/openethereum) ⚠️ Archived - Rust
 
 Consensus Clients
 
-* [Prysm](https://github.com/prysmaticlabs/prysm) ⭐ 3,791 | 🐛 606 | 🌐 Go | 📅 2026-11-02 - Go
-* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,493 | 🐛 597 | 🌐 Rust | 📅 2026-11-02 - Rust
-* [Lodester](https://github.com/chainsafe/lodestar) ⭐ 1,432 | 🐛 404 | 🌐 TypeScript | 📅 2026-11-02 - TypeScript
-* [Teku](https://github.com/ConsenSys/teku) ⭐ 787 | 🐛 237 | 🌐 Java | 📅 2026-11-02 - Java
-* [Nimbus](https://github.com/status-im/nimbus-eth1) ⭐ 635 | 🐛 119 | 🌐 Nim | 📅 2026-11-02 - Nim
+* [Prysm](https://github.com/prysmaticlabs/prysm) ⭐ 3,791 | 🐛 604 | 🌐 Go | 📅 2026-11-03 - Go
+* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,494 | 🐛 601 | 🌐 Rust | 📅 2026-11-02 - Rust
+* [Lodester](https://github.com/chainsafe/lodestar) ⭐ 1,431 | 🐛 408 | 🌐 TypeScript | 📅 2026-11-03 - TypeScript
+* [Teku](https://github.com/ConsenSys/teku) ⭐ 787 | 🐛 237 | 🌐 Java | 📅 2026-11-03 - Java
+* [Nimbus](https://github.com/status-im/nimbus-eth1) ⭐ 635 | 🐛 120 | 🌐 Nim | 📅 2026-11-03 - Nim
 
 ### Oracles
 
@@ -223,7 +223,7 @@ Consensus Clients
 
 * [Ethereum Developer Tool List](https://github.com/ConsenSys/ethereum-developer-tools-list) ⚠️ Archived - A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.
 * [Devpill.me](https://github.com/dcbuild3r/blockchain-development-guide) ⭐ 1,344 | 🐛 4 | 📅 2023-08-13 - A Public Good Blockchain Development Guide
-* [Awesome web3](https://github.com/ahmet/awesome-web3) ⭐ 906 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-02 - A curated list of awesome Web3 resources, libraries, tools and more.
+* [Awesome web3](https://github.com/ahmet/awesome-web3) ⭐ 907 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-02 - A curated list of awesome Web3 resources, libraries, tools and more.
 * [Awesome Crypto Trackers](https://github.com/denisnazarov/awesome-crypto-trackers) ⭐ 485 | 🐛 23 | 📅 2025-03-25 - A curated list of crypto project trackers and analytics dashboards.
 * [Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list) ⭐ 458 | 🐛 2 | 📅 2022-09-23 - This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.
 * [Awesome AMMs](https://github.com/0xperp/awesome-amm) ⭐ 337 | 🐛 1 | 📅 2024-08-06 - Collection of AMMs, Orderbooks, and everything in between.
@@ -233,4 +233,4 @@ Consensus Clients
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
